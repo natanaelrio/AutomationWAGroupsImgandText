@@ -2,7 +2,7 @@
 node_modules/
 
 # session login WhatsApp (JANGAN pernah di-commit!)
-auth_info_baileys/
+# auth_info_baileys/
 
 # media & log hasil runtime
 media/
@@ -15,7 +15,7 @@ logs/
 # .env
 
 # kredensial service account Google (JANGAN pernah di-commit!)
-# credentials/
+credentials/
 
 # state runtime antrian klaim PIC
 data/
