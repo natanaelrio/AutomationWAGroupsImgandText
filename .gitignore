@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# session login WhatsApp (JANGAN pernah di-commit!)
+auth_info_baileys/
+
+# media & log hasil runtime
+media/
+logs/
+
+# hasil export chat WhatsApp utk backfill import (data pribadi, JANGAN commit!)
+# import/
+
+# environment / konfigurasi lokal
+# .env
+
+# kredensial service account Google (JANGAN pernah di-commit!)
+# credentials/
+
+# state runtime antrian klaim PIC
+data/

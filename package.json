@@ -1,0 +1,24 @@
+{
+  "name": "wa-realtime-logger",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp realtime logger + OCR nomor telepon (Baileys + Tesseract.js)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "backfill": "node scripts/backfillHistory.js",
+    "import-chat": "node scripts/importExportedChat.js",
+    "test:sheets": "node test/testSheets.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "baileys": "^7.0.0-rc14",
+    "dotenv": "^16.4.5",
+    "googleapis": "^176.0.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "tesseract.js": "^7.0.0"
+  }
+}
