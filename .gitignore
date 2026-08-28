@@ -2,7 +2,7 @@
 node_modules/
 
 # session login WhatsApp (JANGAN pernah di-commit!)
-# auth_info_baileys/
+auth_info_baileys/
 
 # media & log hasil runtime
 media/
