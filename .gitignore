@@ -9,14 +9,14 @@ media/
 logs/
 
 # hasil export chat WhatsApp utk backfill import (data pribadi, JANGAN commit!)
-# import/
+import/
 
 # environment / konfigurasi lokal
 # .env
 
 # kredensial service account Google (JANGAN pernah di-commit!)
-credentials/
+# credentials/
 
 # state runtime antrian klaim PIC
-data/
-credentials/service-account.json
+# data/
+# credentials/service-account.json

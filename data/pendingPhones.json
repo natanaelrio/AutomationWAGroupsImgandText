@@ -1,0 +1,29 @@
+{
+  "pending": [],
+  "claimed": [
+    {
+      "messageId": "AC67BC8E6691ACE955A2C2AB3A044E7F",
+      "phone": "6285892347740",
+      "groupName": "NOTIFIKASI SALES BIGDATA",
+      "addedAt": "2026-08-21T09:43:47.828Z",
+      "claimedBy": "272468849725591@lid",
+      "claimedAt": "2026-08-21T09:43:59.654Z"
+    },
+    {
+      "messageId": "ACC6EF49AF89460D57D4E52FF498963A",
+      "phone": "6283808161685",
+      "groupName": "NOTIFIKASI SALES BIGDATA",
+      "addedAt": "2026-08-21T09:55:44.968Z",
+      "claimedBy": "272468849725591@lid",
+      "claimedAt": "2026-08-21T09:55:52.535Z"
+    },
+    {
+      "messageId": "3EB07A4677B54E42861986",
+      "phone": "6282268531158",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-08-27T04:37:38.465Z",
+      "claimedBy": "177708701057272@lid",
+      "claimedAt": "2026-08-27T04:44:57.693Z"
+    }
+  ]
+}
