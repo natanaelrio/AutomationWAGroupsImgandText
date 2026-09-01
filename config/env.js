@@ -14,7 +14,12 @@ const config = {
   // Bahasa OCR Tesseract, contoh: ind+eng (Indonesia + English)
   ocrLanguage: process.env.OCR_LANGUAGE || "ind+eng",
 
-  // ==== Google Sheets (PIC tracking) ====
+  // ==== Google Sheets (PIC tracking) — via Apps Script Web App ====
+  // URL hasil deploy web app & token rahasia yang sama dengan filter doPost
+  googleSheetsWebAppUrl: process.env.GOOGLE_SHEETS_WEBAPP_URL || "",
+  googleSheetsWebAppToken: process.env.GOOGLE_SHEETS_WEBAPP_TOKEN || "",
+
+  // ==== Google Sheets (legacy, TIDAK dipakai lagi untuk tulis) ====
   // Path FILE service account JSON — isi key TIDAK boleh hardcode di sini
   googleServiceAccountPath:
     process.env.GOOGLE_SERVICE_ACCOUNT_PATH || "./credentials/service-account.json",

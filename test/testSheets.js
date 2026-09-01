@@ -25,9 +25,9 @@ const { formatTimestamp } = require("../utils/logger");
   } else {
     console.error(`GAGAL: ${result.error}`);
     console.error("Periksa:");
-    console.error(" 1. File credentials/service-account.json ada & valid.");
-    console.error(" 2. Spreadsheet sudah di-share ke email service account dengan akses Editor.");
-    console.error(" 3. GOOGLE_SHEET_ID & GOOGLE_SHEET_TAB di .env benar.");
+    console.error(" 1. GOOGLE_SHEETS_WEBAPP_URL & GOOGLE_SHEETS_WEBAPP_TOKEN di .env terisi.");
+    console.error(" 2. Token di .env SAMA dengan filter doPost di Apps Script.");
+    console.error(" 3. Deployment web app sudah di-update ke version baru setelah ubah kode.");
     process.exit(1);
   }
 })();
