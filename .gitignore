@@ -11,8 +11,10 @@ logs/
 # hasil export chat WhatsApp utk backfill import (data pribadi, JANGAN commit!)
 import/
 
-# environment / konfigurasi lokal
-# .env
+# environment / konfigurasi lokal (isi token rahasia — JANGAN commit!)
+.env
+.env.*
+!.env.example
 
 # kredensial service account Google (JANGAN pernah di-commit!)
 # credentials/
