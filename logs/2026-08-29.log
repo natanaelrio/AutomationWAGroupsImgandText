@@ -1,0 +1,136 @@
+[29/08/2026, 10.49.11] Koneksi WhatsApp TERHUBUNG.
+[29/08/2026, 10.49.11] Antrian pending: 0 nomor menunggu klaim
+[29/08/2026, 10.49.12] Grup target   : grup sales pt (120363021369281320@g.us)
+[29/08/2026, 10.51.51] Koneksi WhatsApp TERHUBUNG.
+[29/08/2026, 10.51.51] Antrian pending: 0 nomor menunggu klaim
+[29/08/2026, 10.51.51] Grup target   : grup sales pt (120363021369281320@g.us)
+[29/08/2026, 11.02.26] ========== PESAN MASUK ==========
+[29/08/2026, 11.02.26] TYPE       : notify
+[29/08/2026, 11.02.26] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.02.26] FROM ME    : false
+[29/08/2026, 11.02.26] FROM       : 237829602938908@lid
+[29/08/2026, 11.02.26] HAS_IMAGE  : false
+[29/08/2026, 11.02.26] GROUP_NAME : grup sales pt
+[29/08/2026, 11.02.26] ==================================
+[29/08/2026, 11.02.26] TEXT       : -
+[29/08/2026, 11.02.27] ========== PESAN MASUK ==========
+[29/08/2026, 11.02.27] TYPE       : notify
+[29/08/2026, 11.02.27] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.02.27] GROUP_NAME : grup sales pt
+[29/08/2026, 11.02.27] FROM       : 237829602938908@lid
+[29/08/2026, 11.02.27] FROM ME    : false
+[29/08/2026, 11.02.27] TEXT       : -
+[29/08/2026, 11.02.27] HAS_IMAGE  : true
+[29/08/2026, 11.02.27] IMAGE_SAVED : C:\react belajar\node-wa\media\1787976147522_237829602938908lid.jpg
+[29/08/2026, 11.02.32] PHONE_FOUND  : 6281346614336
+[29/08/2026, 11.02.32] OCR_TEXT     : 11.02 0% A - ® “Sal & N +62813-4661-.. |B RE : IN +62 813-4661-4336 ~ Nugroho Arie n Bukan kontak * Tidak ada grup yang sama @ Alat keamanan © Blokir & Tambah Telepon suara Ni Umat” 10/02 “10.04 V/ Toko pelangi teknik Ltc glodok gf2 blok b7 no 5 10 01 77 2 pesan belum dibaca — Diteruskan In NG 6 . @ Pesan 0 ©@ Oo 111 O <
+[29/08/2026, 11.02.32] PENDING_QUEUE: 6281346614336 menunggu klaim (antrian: 1)
+[29/08/2026, 11.02.32] ==================================
+[29/08/2026, 11.02.33] ========== PESAN MASUK ==========
+[29/08/2026, 11.02.33] TYPE       : notify
+[29/08/2026, 11.02.33] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.02.33] GROUP_NAME : grup sales pt
+[29/08/2026, 11.02.33] FROM       : 237829602938908@lid
+[29/08/2026, 11.02.33] FROM ME    : false
+[29/08/2026, 11.02.33] TEXT       : Hub stamper kodok
+[29/08/2026, 11.02.33] HAS_IMAGE  : false
+[29/08/2026, 11.02.33] ==================================
+[29/08/2026, 11.02.48] ========== PESAN MASUK ==========
+[29/08/2026, 11.02.48] TYPE       : notify
+[29/08/2026, 11.02.48] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.02.48] GROUP_NAME : grup sales pt
+[29/08/2026, 11.02.48] FROM       : 70884224147606@lid
+[29/08/2026, 11.02.48] TEXT       : ok
+[29/08/2026, 11.02.48] HAS_IMAGE  : false
+[29/08/2026, 11.02.48] FROM ME    : false
+[29/08/2026, 11.02.49] SHEET_ERROR : invalid_grant: Invalid JWT Signature.
+[29/08/2026, 11.02.49] PIC_NAME     : Alma
+[29/08/2026, 11.02.49] PHONE        : 6281346614336
+[29/08/2026, 11.02.49] METHOD       : FIFO
+[29/08/2026, 11.02.49] SHEET_STATUS : failed
+[29/08/2026, 11.02.49] ================================
+[29/08/2026, 11.02.49] ========== KLAIM PIC ==========
+[29/08/2026, 11.02.49] CLAIMED_BY   : 70884224147606@lid
+[29/08/2026, 11.02.49] ==================================
+[29/08/2026, 11.02.50] ========== PESAN MASUK ==========
+[29/08/2026, 11.02.50] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.02.50] FROM       : 24202576969890@lid
+[29/08/2026, 11.02.50] FROM ME    : false
+[29/08/2026, 11.02.50] TEXT       : Hallo Alma, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1AMNL3ksGukcge1PKfryXyl5ltqpG1wJIOxy0AcTCDh8/edit?gid=772573327#gid=772573327
+[29/08/2026, 11.02.50] GROUP_NAME : grup sales pt
+[29/08/2026, 11.02.50] TYPE       : notify
+[29/08/2026, 11.02.50] HAS_IMAGE  : false
+[29/08/2026, 11.02.50] ==================================
+[29/08/2026, 11.40.32] ========== PESAN MASUK ==========
+[29/08/2026, 11.40.32] TYPE       : notify
+[29/08/2026, 11.40.32] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.40.32] FROM ME    : false
+[29/08/2026, 11.40.32] FROM       : 75144932388948@lid
+[29/08/2026, 11.40.32] HAS_IMAGE  : true
+[29/08/2026, 11.40.32] TEXT       : -
+[29/08/2026, 11.40.32] GROUP_NAME : grup sales pt
+[29/08/2026, 11.40.32] IMAGE_SAVED : C:\react belajar\node-wa\media\1787978432552_75144932388948lid.jpg
+[29/08/2026, 11.40.32] OCR_TEXT     : X | + +62 812-3564-1685 te Telepon suara tak terjay Klik untuk Menelepon balik Mim ka 19.50 Genset Montoya ¥9 8000 watt hrg brp? pi ii i il |) il ie | li Dn i J | m
+[29/08/2026, 11.40.32] PHONE_FOUND  : 6281235641685
+[29/08/2026, 11.40.32] PENDING_QUEUE: 6281235641685 menunggu klaim (antrian: 1)
+[29/08/2026, 11.40.32] ==================================
+[29/08/2026, 11.40.49] ========== PESAN MASUK ==========
+[29/08/2026, 11.40.49] TYPE       : notify
+[29/08/2026, 11.40.49] FROM       : 75144932388948@lid
+[29/08/2026, 11.40.49] FROM ME    : false
+[29/08/2026, 11.40.49] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.40.49] TEXT       : butuh mg 10000-4 unit
+[29/08/2026, 11.40.49] ==================================
+[29/08/2026, 11.40.49] HAS_IMAGE  : false
+[29/08/2026, 11.40.49] GROUP_NAME : grup sales pt
+[29/08/2026, 11.44.54] ========== PESAN MASUK ==========
+[29/08/2026, 11.44.54] TYPE       : notify
+[29/08/2026, 11.44.54] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.44.54] FROM       : 61091681939696@lid
+[29/08/2026, 11.44.54] GROUP_NAME : grup sales pt
+[29/08/2026, 11.44.54] FROM ME    : false
+[29/08/2026, 11.44.54] HAS_IMAGE  : false
+[29/08/2026, 11.44.54] TEXT       : Ok
+[29/08/2026, 11.44.54] SHEET_ERROR : invalid_grant: Invalid JWT Signature.
+[29/08/2026, 11.44.54] ========== KLAIM PIC ==========
+[29/08/2026, 11.44.54] CLAIMED_BY   : 61091681939696@lid
+[29/08/2026, 11.44.54] METHOD       : FIFO
+[29/08/2026, 11.44.54] PIC_NAME     : Ina
+[29/08/2026, 11.44.54] PHONE        : 6281235641685
+[29/08/2026, 11.44.54] ================================
+[29/08/2026, 11.44.54] ==================================
+[29/08/2026, 11.44.54] SHEET_STATUS : failed
+[29/08/2026, 11.44.55] ========== PESAN MASUK ==========
+[29/08/2026, 11.44.55] GROUP      : 120363021369281320@g.us
+[29/08/2026, 11.44.55] TYPE       : notify
+[29/08/2026, 11.44.55] TEXT       : Hallo Ina, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1cdqnGEwlbPCJUmyvqaOnTdq6y0CPD1PA_r9EzMX9hBY/edit?gid=1626117204#gid=1626117204
+[29/08/2026, 11.44.55] GROUP_NAME : grup sales pt
+[29/08/2026, 11.44.55] FROM       : 24202576969890@lid
+[29/08/2026, 11.44.55] ==================================
+[29/08/2026, 11.44.55] HAS_IMAGE  : false
+[29/08/2026, 11.44.55] FROM ME    : false
+[29/08/2026, 13.07.16] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[29/08/2026, 13.07.22] Koneksi WhatsApp TERHUBUNG.
+[29/08/2026, 13.07.22] Antrian pending: 0 nomor menunggu klaim
+[29/08/2026, 13.07.22] Grup target   : grup sales pt (120363021369281320@g.us)
+[29/08/2026, 13.07.43] ========== PESAN MASUK ==========
+[29/08/2026, 13.07.43] GROUP      : 120363021369281320@g.us
+[29/08/2026, 13.07.43] TYPE       : notify
+[29/08/2026, 13.07.43] FROM       : 75144932388948@lid
+[29/08/2026, 13.07.43] GROUP_NAME : grup sales pt
+[29/08/2026, 13.07.43] FROM ME    : false
+[29/08/2026, 13.07.43] TEXT       : -
+[29/08/2026, 13.07.43] HAS_IMAGE  : true
+[29/08/2026, 13.07.43] IMAGE_SAVED : C:\react belajar\node-wa\media\1787983663638_75144932388948lid.jpg
+[29/08/2026, 13.07.44] PHONE_FOUND  : -
+[29/08/2026, 13.07.44] OCR_TEXT     : 307000: o 1. ED \ | Eko 0s 0 | < Sebelum pembelian © ® AProduk ar me | | 1 of Genset 15 kva 3 phase phase i Dual Voltage TSUZUMI TDG 150... [i Rp35.800.000 Yi 154 terjual 4 a4 y . Hai, barang ini ready? Obrolan telah dialihkan kepada Tsuzumi Japan Official ® gs bisa offline kak ® Atauada wawak yang bs di hub? a (©) Kirim pesan ® v | 1 Il (@] < | y y x Fe Ge TF LON
+[29/08/2026, 13.07.44] ==================================
+[29/08/2026, 13.07.59] ========== PESAN MASUK ==========
+[29/08/2026, 13.07.59] TYPE       : notify
+[29/08/2026, 13.07.59] GROUP      : 120363021369281320@g.us
+[29/08/2026, 13.07.59] GROUP_NAME : grup sales pt
+[29/08/2026, 13.07.59] FROM       : 75144932388948@lid
+[29/08/2026, 13.07.59] TEXT       : Knp ga dibalas?
+[29/08/2026, 13.07.59] HAS_IMAGE  : false
+[29/08/2026, 13.07.59] FROM ME    : false
+[29/08/2026, 13.07.59] ==================================

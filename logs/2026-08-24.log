@@ -1,0 +1,115 @@
+[24/08/2026, 13.50.58] BACKFILL     : rentang mulai Sabtu, 01/08/2026, 00.00.00 WIB
+[24/08/2026, 13.51.01] Koneksi WhatsApp TERHUBUNG.
+[24/08/2026, 13.51.01] ANCHOR       : menunggu minimal 1 pesan grup target dikenali lokal
+[24/08/2026, 13.51.18] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.51.38] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.51.59] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.52.19] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.52.39] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.52.59] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.53.19] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.53.40] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.55.19] BACKFILL     : rentang mulai Sabtu, 01/08/2026, 00.00.00 WIB
+[24/08/2026, 13.55.22] Koneksi WhatsApp TERHUBUNG.
+[24/08/2026, 13.55.22] ANCHOR       : menunggu minimal 1 pesan grup target dikenali lokal
+[24/08/2026, 13.55.39] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.55.59] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.56.20] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 13.59.30] BACKFILL     : rentang mulai Sabtu, 01/08/2026, 00.00.00 WIB
+[24/08/2026, 13.59.32] Koneksi WhatsApp TERHUBUNG.
+[24/08/2026, 13.59.32] ANCHOR       : menunggu minimal 1 pesan grup target dikenali lokal
+[24/08/2026, 13.59.50] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.00.10] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.00.31] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.00.51] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.01.11] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.01.31] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.01.51] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.02.11] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.02.32] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.02.52] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.03.12] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.03.32] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.03.52] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.04.12] ANCHOR       : belum ada pesan grup target yang dikenali — kirim 1 pesan test ke grup (atau tunggu sync awal masuk).
+[24/08/2026, 14.04.30] GAGAL        : tidak ada anchor dalam batas tunggu. Pastikan bot bisa menerima pesan grup target (cek TARGET_GROUP_ID / keanggotaan grup), lalu jalankan ulang.
+[24/08/2026, 14.11.37] LIVE         : +1 pesan grup tersimpan (total 1)
+[24/08/2026, 14.15.22] Koneksi WhatsApp TERHUBUNG.
+[24/08/2026, 14.15.22] Antrian pending: 0 nomor menunggu klaim
+[24/08/2026, 14.15.23] Grup target   : grup sales pt (120363021369281320@g.us)
+[24/08/2026, 15.33.53] BACKFILL     : rentang mulai Sabtu, 01/08/2026, 00.00.00 WIB
+[24/08/2026, 15.33.56] Koneksi WhatsApp TERHUBUNG.
+[24/08/2026, 15.33.56] ANCHOR       : menunggu minimal 1 pesan grup target dikenali lokal
+[24/08/2026, 15.34.05] LIVE         : +1 pesan grup tersimpan (total 1)
+[24/08/2026, 15.34.05] ON_DEMAND    : req #1 — minta 50 pesan sebelum Senin, 24/08/2026, 15.34.05
+[24/08/2026, 15.35.35] ON_DEMAND    : balasan kosong — coba sekali lagi dengan anchor yang sama...
+[24/08/2026, 15.35.38] ON_DEMAND    : req #2 — minta 50 pesan sebelum Senin, 24/08/2026, 15.34.05
+[24/08/2026, 15.35.40] HISTORY_SET  : [ON_DEMAND] +0 pesan grup relevan (total 1)
+[24/08/2026, 15.37.03] LIVE         : +1 pesan grup tersimpan (total 2)
+[24/08/2026, 15.37.03] ON_DEMAND    : +1 pesan baru (total 2)
+[24/08/2026, 15.37.06] ON_DEMAND    : req #3 — minta 50 pesan sebelum Senin, 24/08/2026, 15.34.05
+[24/08/2026, 15.37.08] HISTORY_SET  : [ON_DEMAND] +0 pesan grup relevan (total 2)
+[24/08/2026, 15.38.36] ON_DEMAND    : balasan kosong — coba sekali lagi dengan anchor yang sama...
+[24/08/2026, 15.38.38] ON_DEMAND    : req #4 — minta 50 pesan sebelum Senin, 24/08/2026, 15.34.05
+[24/08/2026, 15.38.41] HISTORY_SET  : [ON_DEMAND] +0 pesan grup relevan (total 2)
+[24/08/2026, 15.40.08] ON_DEMAND    : tidak ada pesan baru lagi — histori dianggap habis.
+[24/08/2026, 15.40.08]                (kalau posisi ini masih jauh di atas 1 Agustus: kemungkinan bug versi Baileys — `npm list baileys`, update dulu)
+[24/08/2026, 15.40.08] BACKFILL     : 2 pesan grup siap diproses kronologis (4x request on-demand)
+[24/08/2026, 15.40.08] ========== RINGKASAN BACKFILL ==========
+[24/08/2026, 15.40.08] Rentang         : Sabtu, 01/08/2026, 00.00.00 s.d. sekarang (WIB)
+[24/08/2026, 15.40.08] Pesan grup      : 2 unik diproses
+[24/08/2026, 15.40.08] Request history : 4x on-demand (@50/req)
+[24/08/2026, 15.40.08] Sudah diproses  : 0 (dari run sebelumnya, dilewati)
+[24/08/2026, 15.40.08] Gambar          : 0 | media gagal/kadaluarsa: 0
+[24/08/2026, 15.40.08] Nomor pending   : +0 | duplikat dilewati: 0
+[24/08/2026, 15.40.08] Klaim           : 0 ditulis | tanpa target: 0
+[24/08/2026, 15.40.08] Baris sheet     : OK 0 | gagal 0
+[24/08/2026, 15.40.08] Sisa antrian    : 0 nomor tak terklaim sampai akhir histori
+[24/08/2026, 15.40.08] Prosesed ids    : C:\react belajar\node-wa\data\backfillProcessed.json
+[24/08/2026, 15.40.08] ========================================
+[24/08/2026, 15.40.09] Koneksi terputus (code ?). Reconnect dalam 3 detik... (1/5)
+[24/08/2026, 15.40.14] Koneksi WhatsApp TERHUBUNG.
+[24/08/2026, 15.40.14] ANCHOR       : menunggu minimal 1 pesan grup target dikenali lokal
+[24/08/2026, 15.46.05] LIVE         : +1 pesan grup tersimpan (total 3)
+[24/08/2026, 16.18.21] MEDIA_INDEX  : 3 file ditemukan di folder export
+[24/08/2026, 16.18.21] IMG_SKIP     : [Sabtu, 01/08/2026, 09.15.32] file "IMG-20260801-WA0001.jpg" tidak ada di folder export
+[24/08/2026, 16.18.21] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[24/08/2026, 16.18.22] PENDING      : 6281234567890 masuk antrian import (depth 1)
+[24/08/2026, 16.18.22] CLAIMED      : [Senin, 03/08/2026, 14.22.30] 6281234567890 <- - (6281234567890)
+[24/08/2026, 16.18.22] IMAGE_OK     : [Minggu, 02/08/2026, 10.00.05] OCR="+62 812-3456-7890 " -> 6281234567890
+[24/08/2026, 16.18.22] IMAGE_OK     : [Selasa, 04/08/2026, 08.05.00] OCR="0813 2222 3333 " -> 6281322223333
+[24/08/2026, 16.18.22] PENDING      : 6281322223333 masuk antrian import (depth 1)
+[24/08/2026, 16.18.22] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[24/08/2026, 16.18.22] DRY_RUN     : lewati append 2 baris ke sheet
+[24/08/2026, 16.18.22] CLAIMED      : [Selasa, 04/08/2026, 08.06.00] 6281322223333 <- Sifa (Sifa)
+[24/08/2026, 16.18.22] Sumber          : C:\Users\ptpel\AppData\Local\Temp\opencode\wa-import-test\_chat.txt
+[24/08/2026, 16.18.22] Rentang mulai   : Sabtu, 01/08/2026, 00.00.00 WIB
+[24/08/2026, 16.18.22] ========== RINGKASAN IMPORT CHAT ==========
+[24/08/2026, 16.18.22] Sudah diproses  : 0 (dari run sebelumnya, dilewati)
+[24/08/2026, 16.18.22] Baris pesan     : 11 parsed | 1 sebelum cutoff | 10 diproses
+[24/08/2026, 16.18.22] Media lain      : omit 1 | non-gambar 1
+[24/08/2026, 16.18.22] Nomor pending   : +2 | duplikat di antrian: 0
+[24/08/2026, 16.18.22] Gambar          : 3 ditemukan | file hilang: 1 | OCR gagal: 0
+[24/08/2026, 16.18.22] Baris sheet     : OK 0 | gagal 0 (DRY-RUN: tidak benar-benar ditulis)
+[24/08/2026, 16.18.22] State klaim     : C:\react belajar\node-wa\data\importProcessedClaims.json
+[24/08/2026, 16.18.22] State ids       : C:\react belajar\node-wa\data\backfillProcessed.json
+[24/08/2026, 16.18.22] ===========================================
+[24/08/2026, 16.18.22] DRY_RUN     : state TIDAK disimpan — jalankan tanpa --dry-run untuk eksekusi nyata.
+[24/08/2026, 16.18.22] Klaim           : 2 ditulis | duplikat: 0 | tanpa target: 2
+[24/08/2026, 16.18.22] Sisa antrian    : 0 nomor tak terklaim sampai akhir chat
+[24/08/2026, 16.21.53] IMG_SKIP     : [Sabtu, 01/08/2026, 09.15.32] file "IMG-20260801-WA0001.jpg" tidak ada di folder export
+[24/08/2026, 16.21.53] MEDIA_INDEX  : 3 file ditemukan di folder export
+[24/08/2026, 16.21.53] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[24/08/2026, 16.21.53] IMAGE_OK     : [Minggu, 02/08/2026, 10.00.05] OCR="+62 812-3456-7890 " -> 6281234567890
+[24/08/2026, 16.21.53] CLAIMED      : [Senin, 03/08/2026, 14.22.30] 6281234567890 <- - (6281234567890)
+[24/08/2026, 16.21.53] PENDING      : 6281234567890 masuk antrian import (depth 1)
+[24/08/2026, 16.31.04] MEDIA_INDEX  : 3 file ditemukan di folder export
+[24/08/2026, 16.31.04] IMG_SKIP     : [Sabtu, 01/08/2026, 09.15.32] file "IMG-20260801-WA0001.jpg" tidak ada di folder export
+[24/08/2026, 16.31.04] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[24/08/2026, 16.31.04] IMAGE_OK     : [Minggu, 02/08/2026, 10.00.05] OCR="+62 812-3456-7890 " -> 6281234567890
+[24/08/2026, 16.31.04] CLAIMED      : [Senin, 03/08/2026, 14.22.30] 6281234567890 <- - (6281234567890)
+[24/08/2026, 16.31.04] PENDING      : 6281234567890 masuk antrian import (depth 1)
+[24/08/2026, 16.31.04] IMAGE_OK     : [Selasa, 04/08/2026, 08.05.00] OCR="0813 2222 3333 " -> 6281322223333
+[24/08/2026, 16.31.04] PENDING      : 6281322223333 masuk antrian import (depth 1)
+[24/08/2026, 16.31.04] CLAIMED      : [Selasa, 04/08/2026, 08.06.00] 6281322223333 <- Sifa (Sifa)
+[24/08/2026, 16.31.04] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import

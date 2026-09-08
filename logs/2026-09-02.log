@@ -1,0 +1,66 @@
+[02/09/2026, 09.26.17] Koneksi WhatsApp TERHUBUNG.
+[02/09/2026, 09.26.17] Antrian pending: 0 nomor menunggu klaim
+[02/09/2026, 09.26.17] Grup target   : grup sales pt (120363021369281320@g.us)
+[02/09/2026, 09.27.21] Antrian pending: 0 nomor menunggu klaim
+[02/09/2026, 09.27.21] Koneksi WhatsApp TERHUBUNG.
+[02/09/2026, 09.27.21] Grup target   : grup sales pt (120363021369281320@g.us)
+[02/09/2026, 13.02.19] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[02/09/2026, 13.02.25] Koneksi WhatsApp TERHUBUNG.
+[02/09/2026, 13.02.25] Antrian pending: 0 nomor menunggu klaim
+[02/09/2026, 13.02.25] Grup target   : grup sales pt (120363021369281320@g.us)
+[02/09/2026, 14.10.23] ========== PESAN MASUK ==========
+[02/09/2026, 14.10.23] TYPE       : notify
+[02/09/2026, 14.10.23] GROUP      : 120363021369281320@g.us
+[02/09/2026, 14.10.23] FROM       : 24202576969890@lid
+[02/09/2026, 14.10.23] GROUP_NAME : grup sales pt
+[02/09/2026, 14.10.23] FROM ME    : false
+[02/09/2026, 14.10.23] TEXT       : == Rabu, 2 September 2026 pukul 14.10.22 == *Sales Payment Confirmed* telah melakukan pembayaran Nota: https://get.paper.id/caZp60b No. Invoice: INV/02092026/P-A95AE95S06 Customer: Yudha remofa Nomor Customer: 6281371424243 Alamat: kiri pagar Stainles - Belilasec.seberida kab.Indragiri hulu Riau *Detail Item:* 1. Genset Silent Diesel 9 Kva 7000 Watt 1 Phase Tsuzumi TDG 10000 S Qty: 1 | Harga: Rp 17.200.000 | Jumlah: Rp 17.200.000 *Total:* - Subtotal: Rp 17.200.000 - Diskon: - - Total Terbayar: Rp 17.200.000 Kode Voucher: NOVOUCHER *Status: LUNAS*
+[02/09/2026, 14.10.23] HAS_IMAGE  : false
+[02/09/2026, 14.10.23] ==================================
+[02/09/2026, 14.10.23] ========== PESAN MASUK ==========
+[02/09/2026, 14.10.23] TYPE       : notify
+[02/09/2026, 14.10.23] GROUP      : 120363021369281320@g.us
+[02/09/2026, 14.10.23] GROUP_NAME : grup sales pt
+[02/09/2026, 14.10.23] FROM       : 24202576969890@lid
+[02/09/2026, 14.10.23] FROM ME    : false
+[02/09/2026, 14.10.23] HAS_IMAGE  : false
+[02/09/2026, 14.10.23] TEXT       : Transaksi lewat website official minimal 10jt brand tsuzumi + googlemap customer wajib diberikan *Souvenir E-Money* dan catat di paperwork, terimakasih :)
+[02/09/2026, 14.10.23] ==================================
+[02/09/2026, 16.02.31] ========== PESAN MASUK ==========
+[02/09/2026, 16.02.31] TYPE       : notify
+[02/09/2026, 16.02.31] GROUP      : 120363021369281320@g.us
+[02/09/2026, 16.02.31] GROUP_NAME : grup sales pt
+[02/09/2026, 16.02.31] FROM       : 237829602938908@lid
+[02/09/2026, 16.02.31] TEXT       : -
+[02/09/2026, 16.02.31] HAS_IMAGE  : true
+[02/09/2026, 16.02.31] FROM ME    : false
+[02/09/2026, 16.02.32] IMAGE_SAVED : C:\react belajar\node-wa\media\1788339752850_237829602938908lid.jpg
+[02/09/2026, 16.02.35] OCR_TEXT     : | 2d 162 831-9662-8626 Bu sore kak |. 09 TID RI [cdc Fs ml tia Dane rd alo Th Ee [1 [FIRmMAN FWP 41SSE APC YORK KUNING Re sma ama En me ee EEE &E——— kak ada pompa ini gak ? dan utk pembelian a bisa pakai ppn kak ?
+[02/09/2026, 16.02.35] PENDING_QUEUE: 6283196628626 menunggu klaim (antrian: 1)
+[02/09/2026, 16.02.35] PHONE_FOUND  : 6283196628626
+[02/09/2026, 16.02.35] ==================================
+[02/09/2026, 16.03.38] ========== PESAN MASUK ==========
+[02/09/2026, 16.03.38] TYPE       : notify
+[02/09/2026, 16.03.38] GROUP      : 120363021369281320@g.us
+[02/09/2026, 16.03.38] GROUP_NAME : grup sales pt
+[02/09/2026, 16.03.38] FROM       : 70884224147606@lid
+[02/09/2026, 16.03.38] TEXT       : Ok
+[02/09/2026, 16.03.38] FROM ME    : false
+[02/09/2026, 16.03.38] HAS_IMAGE  : false
+[02/09/2026, 16.03.39] ========== PESAN MASUK ==========
+[02/09/2026, 16.03.39] TYPE       : notify
+[02/09/2026, 16.03.39] GROUP      : 120363021369281320@g.us
+[02/09/2026, 16.03.39] FROM ME    : false
+[02/09/2026, 16.03.39] TEXT       : Hallo Alma, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1AMNL3ksGukcge1PKfryXyl5ltqpG1wJIOxy0AcTCDh8/edit?gid=772573327#gid=772573327
+[02/09/2026, 16.03.39] HAS_IMAGE  : false
+[02/09/2026, 16.03.39] FROM       : 24202576969890@lid
+[02/09/2026, 16.03.39] GROUP_NAME : grup sales pt
+[02/09/2026, 16.03.39] ==================================
+[02/09/2026, 16.03.42] ========== KLAIM PIC ==========
+[02/09/2026, 16.03.42] CLAIMED_BY   : 70884224147606@lid
+[02/09/2026, 16.03.42] PHONE        : 6283196628626
+[02/09/2026, 16.03.42] SHEET_STATUS : success
+[02/09/2026, 16.03.42] ================================
+[02/09/2026, 16.03.42] ==================================
+[02/09/2026, 16.03.42] METHOD       : FIFO
+[02/09/2026, 16.03.42] PIC_NAME     : Alma

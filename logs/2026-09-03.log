@@ -1,0 +1,111 @@
+[03/09/2026, 09.25.15] Koneksi WhatsApp TERHUBUNG.
+[03/09/2026, 09.25.15] Antrian pending: 0 nomor menunggu klaim
+[03/09/2026, 09.25.16] Grup target   : grup sales pt (120363021369281320@g.us)
+[03/09/2026, 09.29.06] ========== PESAN MASUK ==========
+[03/09/2026, 09.29.06] TYPE       : notify
+[03/09/2026, 09.29.06] GROUP      : 120363021369281320@g.us
+[03/09/2026, 09.29.06] GROUP_NAME : grup sales pt
+[03/09/2026, 09.29.06] FROM       : 61091681939696@lid
+[03/09/2026, 09.29.06] FROM ME    : false
+[03/09/2026, 09.29.06] TEXT       : ok
+[03/09/2026, 09.29.06] HAS_IMAGE  : false
+[03/09/2026, 09.29.06] CLAIM_SKIP   : tidak ada nomor HP pending untuk diklaim
+[03/09/2026, 09.29.06] ==================================
+[03/09/2026, 09.29.07] ========== PESAN MASUK ==========
+[03/09/2026, 09.29.07] TYPE       : notify
+[03/09/2026, 09.29.07] GROUP_NAME : grup sales pt
+[03/09/2026, 09.29.07] GROUP      : 120363021369281320@g.us
+[03/09/2026, 09.29.07] FROM       : 24202576969890@lid
+[03/09/2026, 09.29.07] FROM ME    : false
+[03/09/2026, 09.29.07] TEXT       : Hallo Ina, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1cdqnGEwlbPCJUmyvqaOnTdq6y0CPD1PA_r9EzMX9hBY/edit?gid=1626117204#gid=1626117204
+[03/09/2026, 09.29.07] HAS_IMAGE  : false
+[03/09/2026, 09.29.07] ==================================
+[03/09/2026, 11.25.15] ========== PESAN MASUK ==========
+[03/09/2026, 11.25.15] TYPE       : notify
+[03/09/2026, 11.25.15] GROUP      : 120363021369281320@g.us
+[03/09/2026, 11.25.15] GROUP_NAME : grup sales pt
+[03/09/2026, 11.25.15] FROM       : 237829602938908@lid
+[03/09/2026, 11.25.15] TEXT       : -
+[03/09/2026, 11.25.15] FROM ME    : false
+[03/09/2026, 11.25.15] HAS_IMAGE  : true
+[03/09/2026, 11.25.15] IMAGE_SAVED : C:\react belajar\node-wa\media\1788409515529_237829602938908lid.jpg
+[03/09/2026, 11.25.17] OCR_TEXT     : S 162 812-6748-1861 B Siang kak 10.31 Genset tiger tg8800e ada 11.05
+[03/09/2026, 11.25.17] PHONE_FOUND  : 6281267481861
+[03/09/2026, 11.25.17] PENDING_QUEUE: 6281267481861 menunggu klaim (antrian: 1)
+[03/09/2026, 11.25.17] ==================================
+[03/09/2026, 11.25.54] TYPE       : notify
+[03/09/2026, 11.25.54] ========== PESAN MASUK ==========
+[03/09/2026, 11.25.54] GROUP_NAME : grup sales pt
+[03/09/2026, 11.25.54] GROUP      : 120363021369281320@g.us
+[03/09/2026, 11.25.54] FROM ME    : false
+[03/09/2026, 11.25.54] HAS_IMAGE  : false
+[03/09/2026, 11.25.54] TEXT       : ok
+[03/09/2026, 11.25.54] FROM       : 138260047257624@lid
+[03/09/2026, 11.25.55] ========== PESAN MASUK ==========
+[03/09/2026, 11.25.55] TYPE       : notify
+[03/09/2026, 11.25.55] FROM ME    : false
+[03/09/2026, 11.25.55] GROUP      : 120363021369281320@g.us
+[03/09/2026, 11.25.56] TEXT       : Hallo Erik, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1q2hLw077h8uJAYJMu3uxT-TxT3HV78DojFAvhI7T7hY/edit?gid=147428211#gid=147428211
+[03/09/2026, 11.25.55] FROM       : 24202576969890@lid
+[03/09/2026, 11.25.55] GROUP_NAME : grup sales pt
+[03/09/2026, 11.25.56] HAS_IMAGE  : false
+[03/09/2026, 11.25.56] ==================================
+[03/09/2026, 11.25.58] ========== KLAIM PIC ==========
+[03/09/2026, 11.25.58] CLAIMED_BY   : 138260047257624@lid
+[03/09/2026, 11.25.58] PIC_NAME     : Erik
+[03/09/2026, 11.25.58] PHONE        : 6281267481861
+[03/09/2026, 11.25.58] METHOD       : FIFO
+[03/09/2026, 11.25.58] SHEET_STATUS : success
+[03/09/2026, 11.25.58] ================================
+[03/09/2026, 11.25.58] ==================================
+[03/09/2026, 13.03.01] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[03/09/2026, 13.03.06] Koneksi WhatsApp TERHUBUNG.
+[03/09/2026, 13.03.06] Antrian pending: 0 nomor menunggu klaim
+[03/09/2026, 13.03.07] Grup target   : grup sales pt (120363021369281320@g.us)
+[03/09/2026, 13.18.19] ========== PESAN MASUK ==========
+[03/09/2026, 13.18.19] TYPE       : notify
+[03/09/2026, 13.18.19] GROUP_NAME : grup sales pt
+[03/09/2026, 13.18.19] GROUP      : 120363021369281320@g.us
+[03/09/2026, 13.18.19] FROM       : 24202576969890@lid
+[03/09/2026, 13.18.19] FROM ME    : false
+[03/09/2026, 13.18.19] TEXT       : == Kamis, 3 September 2026 pukul 13.18.18 == *Sales Payment Confirmed* telah melakukan pembayaran Nota: https://get.paper.id/5V6Va1G No. Invoice: INV/03092026/P-EAI7C4089E Customer: EGI Nomor Customer: 628161980286 Alamat: Perumahan sumarecon serpong, Cluster Serenade Lake jl papirus 3 no 2/ B5 no2 Lokasi seberang mc donald *Detail Item:* 1. Genset 8 Kva 6000 Watt Silent Inverter Dual Fuel LPG & Bensin Tsuzumi TIG8500ISE Qty: 1 | Harga: Rp 13.600.000 | Jumlah: Rp 13.600.000 *Total:* - Subtotal: Rp 13.600.000 - Diskon: - - Total Terbayar: Rp 13.600.000 Kode Voucher: NOVOUCHER *Status: LUNAS*
+[03/09/2026, 13.18.19] HAS_IMAGE  : false
+[03/09/2026, 13.18.19] ==================================
+[03/09/2026, 13.18.19] ========== PESAN MASUK ==========
+[03/09/2026, 13.18.19] GROUP      : 120363021369281320@g.us
+[03/09/2026, 13.18.19] GROUP_NAME : grup sales pt
+[03/09/2026, 13.18.19] FROM       : 24202576969890@lid
+[03/09/2026, 13.18.19] TEXT       : Transaksi lewat website official minimal 10jt brand tsuzumi + googlemap customer wajib diberikan *Souvenir E-Money* dan catat di paperwork, terimakasih :)
+[03/09/2026, 13.18.19] TYPE       : notify
+[03/09/2026, 13.18.19] HAS_IMAGE  : false
+[03/09/2026, 13.18.19] FROM ME    : false
+[03/09/2026, 13.18.19] ==================================
+[03/09/2026, 14.21.19] Koneksi terputus (code 428). Reconnect dalam 3 detik...
+[03/09/2026, 14.21.24] Antrian pending: 0 nomor menunggu klaim
+[03/09/2026, 14.21.24] Koneksi WhatsApp TERHUBUNG.
+[03/09/2026, 14.21.24] Grup target   : grup sales pt (120363021369281320@g.us)
+[03/09/2026, 15.28.46] ========== PESAN MASUK ==========
+[03/09/2026, 15.28.46] GROUP      : 120363021369281320@g.us
+[03/09/2026, 15.28.46] TYPE       : notify
+[03/09/2026, 15.28.46] GROUP_NAME : grup sales pt
+[03/09/2026, 15.28.46] FROM       : 24202576969890@lid
+[03/09/2026, 15.28.46] FROM ME    : false
+[03/09/2026, 15.28.46] TEXT       : ==| Kamis, 3 September 2026, jam 15:28 |== *Hallo Sifa, ada yang mengajukan penawaran* _info_: - Nama Customer: Lukman Prasetyo - Nomor Telp: 82128911955 - Email: lukmanprasetyo8@gmail.com - Product: Pompa Alkon Bensin 6 Inch Tsuzumi TWP6E Japan Technology - Link: https://www.pelangiteknik.com/product/pompa-alkon-bensin-6-inch-tsuzumi-twp6e - PIC Sales: Sifa #StayPositive
+[03/09/2026, 15.28.46] HAS_IMAGE  : false
+[03/09/2026, 15.28.49] ========== LEAD NOTIFICATION ==========
+[03/09/2026, 15.28.49] CUSTOMER     : Lukman Prasetyo
+[03/09/2026, 15.28.49] EMAIL        : lukmanprasetyo8@gmail.com
+[03/09/2026, 15.28.49] LEAD_DETECT  : notifikasi lead terstruktur terdeteksi
+[03/09/2026, 15.28.49] PHONE        : 6282128911955
+[03/09/2026, 15.28.49] PRODUCT      : Pompa Alkon Bensin 6 Inch Tsuzumi TWP6E Japan Technology
+[03/09/2026, 15.28.49] SALES        : Sifa
+[03/09/2026, 15.28.49] =======================================
+[03/09/2026, 15.28.49] ==================================
+[03/09/2026, 15.28.49] SHEET_STATUS : success
+[03/09/2026, 16.50.14] Koneksi terputus (code 428). Reconnect dalam 3 detik...
+[03/09/2026, 16.50.17] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[03/09/2026, 16.50.20] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[03/09/2026, 16.50.23] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[03/09/2026, 16.50.28] Koneksi WhatsApp TERHUBUNG.
+[03/09/2026, 16.50.28] Antrian pending: 0 nomor menunggu klaim
+[03/09/2026, 16.50.28] Grup target   : grup sales pt (120363021369281320@g.us)

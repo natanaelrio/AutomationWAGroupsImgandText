@@ -1,0 +1,123 @@
+[01/09/2026, 09.27.22] Koneksi WhatsApp TERHUBUNG.
+[01/09/2026, 09.27.22] Antrian pending: 0 nomor menunggu klaim
+[01/09/2026, 09.27.23] Grup target   : grup sales pt (120363021369281320@g.us)
+[01/09/2026, 10.45.38] ========== PESAN MASUK ==========
+[01/09/2026, 10.45.38] TYPE       : notify
+[01/09/2026, 10.45.38] GROUP      : 120363021369281320@g.us
+[01/09/2026, 10.45.38] FROM       : 237829602938908@lid
+[01/09/2026, 10.45.38] FROM ME    : false
+[01/09/2026, 10.45.38] GROUP_NAME : grup sales pt
+[01/09/2026, 10.45.38] TEXT       : -
+[01/09/2026, 10.45.38] HAS_IMAGE  : true
+[01/09/2026, 10.45.38] IMAGE_SAVED : C:\react belajar\node-wa\media\1788234338783_237829602938908lid.jpg
+[01/09/2026, 10.45.41] OCR_TEXT     : (0) +62 812-3625-1981 Bu Selamat siang 09.38 Sy dapat no ini dri toko mitra jaya tehnik, kat tehnik satu lantai ama mereka n jual genset
+[01/09/2026, 10.45.41] PHONE_FOUND  : 6281236251981
+[01/09/2026, 10.45.41] PENDING_QUEUE: 6281236251981 menunggu klaim (antrian: 1)
+[01/09/2026, 10.45.41] ==================================
+[01/09/2026, 10.45.59] ========== PESAN MASUK ==========
+[01/09/2026, 10.45.59] GROUP      : 120363021369281320@g.us
+[01/09/2026, 10.45.59] TYPE       : notify
+[01/09/2026, 10.45.59] FROM ME    : false
+[01/09/2026, 10.45.59] TEXT       : ok
+[01/09/2026, 10.45.59] GROUP_NAME : grup sales pt
+[01/09/2026, 10.45.59] FROM       : 70884224147606@lid
+[01/09/2026, 10.45.59] HAS_IMAGE  : false
+[01/09/2026, 10.46.01] ========== PESAN MASUK ==========
+[01/09/2026, 10.46.01] TYPE       : notify
+[01/09/2026, 10.46.01] FROM ME    : false
+[01/09/2026, 10.46.01] TEXT       : Hallo Alma, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1AMNL3ksGukcge1PKfryXyl5ltqpG1wJIOxy0AcTCDh8/edit?gid=772573327#gid=772573327
+[01/09/2026, 10.46.01] HAS_IMAGE  : false
+[01/09/2026, 10.46.01] ==================================
+[01/09/2026, 10.46.01] GROUP      : 120363021369281320@g.us
+[01/09/2026, 10.46.01] GROUP_NAME : grup sales pt
+[01/09/2026, 10.46.01] FROM       : 24202576969890@lid
+[01/09/2026, 10.46.03] ========== KLAIM PIC ==========
+[01/09/2026, 10.46.03] CLAIMED_BY   : 70884224147606@lid
+[01/09/2026, 10.46.03] PHONE        : 6281236251981
+[01/09/2026, 10.46.03] PIC_NAME     : Alma
+[01/09/2026, 10.46.03] ================================
+[01/09/2026, 10.46.03] SHEET_STATUS : success
+[01/09/2026, 10.46.03] ==================================
+[01/09/2026, 10.46.03] METHOD       : FIFO
+[01/09/2026, 11.27.24] ========== PESAN MASUK ==========
+[01/09/2026, 11.27.24] TYPE       : notify
+[01/09/2026, 11.27.24] GROUP      : 120363021369281320@g.us
+[01/09/2026, 11.27.24] GROUP_NAME : grup sales pt
+[01/09/2026, 11.27.24] FROM       : 24202576969890@lid
+[01/09/2026, 11.27.24] TEXT       : ==| Selasa, 1 September 2026, jam 11:27 |== *Hallo Ina, ada yang mengajukan penawaran* _info_: - Nama Customer: virgy - Nomor Telp: 81381285417 - Email: - - Product: Genset Silent Diesel 25 Kva Isuzu IP25Kva - Link: https://www.pelangiteknik.com/product/genset-silent-diesel-25-kva-isuzu-ip25kva - PIC Sales: Ina #KeepShining
+[01/09/2026, 11.27.24] HAS_IMAGE  : false
+[01/09/2026, 11.27.24] FROM ME    : false
+[01/09/2026, 11.27.27] ========== LEAD NOTIFICATION ==========
+[01/09/2026, 11.27.27] PHONE        : 6281381285417
+[01/09/2026, 11.27.27] LEAD_DETECT  : notifikasi lead terstruktur terdeteksi
+[01/09/2026, 11.27.27] EMAIL        : -
+[01/09/2026, 11.27.27] PRODUCT      : Genset Silent Diesel 25 Kva Isuzu IP25Kva
+[01/09/2026, 11.27.27] SALES        : Ina
+[01/09/2026, 11.27.27] CUSTOMER     : virgy
+[01/09/2026, 11.27.27] SHEET_STATUS : success
+[01/09/2026, 11.27.27] ==================================
+[01/09/2026, 11.27.27] =======================================
+[01/09/2026, 11.33.27] ========== PESAN MASUK ==========
+[01/09/2026, 11.33.27] TYPE       : notify
+[01/09/2026, 11.33.27] GROUP_NAME : grup sales pt
+[01/09/2026, 11.33.27] FROM ME    : false
+[01/09/2026, 11.33.27] FROM       : 61091681939696@lid
+[01/09/2026, 11.33.27] GROUP      : 120363021369281320@g.us
+[01/09/2026, 11.33.27] ==================================
+[01/09/2026, 11.33.27] TEXT       : -
+[01/09/2026, 11.33.27] HAS_IMAGE  : false
+[01/09/2026, 12.40.32] Koneksi terputus (code 408). Reconnect dalam 3 detik...
+[01/09/2026, 12.40.36] Koneksi WhatsApp TERHUBUNG.
+[01/09/2026, 12.40.36] Antrian pending: 0 nomor menunggu klaim
+[01/09/2026, 12.40.37] Grup target   : grup sales pt (120363021369281320@g.us)
+[01/09/2026, 13.51.47] Koneksi WhatsApp TERHUBUNG.
+[01/09/2026, 13.51.47] Antrian pending: 0 nomor menunggu klaim
+[01/09/2026, 13.51.47] Grup target   : grup sales pt (120363021369281320@g.us)
+[01/09/2026, 14.32.49] ========== PESAN MASUK ==========
+[01/09/2026, 14.32.49] TYPE       : notify
+[01/09/2026, 14.32.49] GROUP      : 120363021369281320@g.us
+[01/09/2026, 14.32.49] GROUP_NAME : grup sales pt
+[01/09/2026, 14.32.49] FROM       : 237829602938908@lid
+[01/09/2026, 14.32.49] FROM ME    : false
+[01/09/2026, 14.32.49] TEXT       : -
+[01/09/2026, 14.32.49] HAS_IMAGE  : true
+[01/09/2026, 14.32.49] IMAGE_SAVED : C:\react belajar\node-wa\media\1788247969785_237829602938908lid.jpg
+[01/09/2026, 14.32.52] OCR_TEXT     : - +62 812-8172-5741 E Tamb: = terakhir dilihat hari ini pukul 14.29 Ls ‘ 8 Pesan dan telepon terenkripsi : Hari Ini to-end. Hanya ore yang bisa membaca, mendengarkan, atau membagikanny mempelajari selengkapnya. TE +62 812-8172-5741 ~Johan Bukan kontak - Tidak ada grup yang sam 0) Alat keamanan © Blokir Mau tanya ada kompresor swan suv212 1417
+[01/09/2026, 14.32.52] PHONE_FOUND  : 6281281725741
+[01/09/2026, 14.32.52] PENDING_QUEUE: 6281281725741 menunggu klaim (antrian: 1)
+[01/09/2026, 14.32.52] ==================================
+[01/09/2026, 14.32.57] TYPE       : notify
+[01/09/2026, 14.32.57] ========== PESAN MASUK ==========
+[01/09/2026, 14.32.57] GROUP      : 120363021369281320@g.us
+[01/09/2026, 14.32.57] FROM       : 138260047257624@lid
+[01/09/2026, 14.32.57] TEXT       : Oke
+[01/09/2026, 14.32.57] GROUP_NAME : grup sales pt
+[01/09/2026, 14.32.57] SHEET_ERROR : GOOGLE_SHEETS_WEBAPP_URL / GOOGLE_SHEETS_WEBAPP_TOKEN belum diisi di .env
+[01/09/2026, 14.32.57] ========== KLAIM PIC ==========
+[01/09/2026, 14.32.57] FROM ME    : false
+[01/09/2026, 14.32.57] CLAIMED_BY   : 138260047257624@lid
+[01/09/2026, 14.32.57] HAS_IMAGE  : false
+[01/09/2026, 14.32.57] PIC_NAME     : Erik
+[01/09/2026, 14.32.57] PHONE        : 6281281725741
+[01/09/2026, 14.32.57] ================================
+[01/09/2026, 14.32.57] SHEET_STATUS : failed
+[01/09/2026, 14.32.57] METHOD       : FIFO
+[01/09/2026, 14.32.57] ==================================
+[01/09/2026, 14.32.58] ========== PESAN MASUK ==========
+[01/09/2026, 14.32.58] GROUP      : 120363021369281320@g.us
+[01/09/2026, 14.32.58] GROUP_NAME : grup sales pt
+[01/09/2026, 14.32.58] FROM       : 24202576969890@lid
+[01/09/2026, 14.32.58] TEXT       : Hallo Erik, Jangan lupa bukti FU di-upload di Paperwork yang sudah disediakan. Link Google Sheets: https://docs.google.com/spreadsheets/d/1q2hLw077h8uJAYJMu3uxT-TxT3HV78DojFAvhI7T7hY/edit?gid=147428211#gid=147428211
+[01/09/2026, 14.32.58] TYPE       : notify
+[01/09/2026, 14.32.58] FROM ME    : false
+[01/09/2026, 14.32.58] HAS_IMAGE  : false
+[01/09/2026, 14.32.58] ==================================
+[01/09/2026, 15.01.22] Koneksi WhatsApp TERHUBUNG.
+[01/09/2026, 15.01.22] Antrian pending: 0 nomor menunggu klaim
+[01/09/2026, 15.01.23] Grup target   : grup sales pt (120363021369281320@g.us)
+[01/09/2026, 15.06.10] Koneksi WhatsApp TERHUBUNG.
+[01/09/2026, 15.06.10] Antrian pending: 0 nomor menunggu klaim
+[01/09/2026, 15.06.10] Grup target   : grup sales pt (120363021369281320@g.us)
+[01/09/2026, 15.06.31] Koneksi WhatsApp TERHUBUNG.
+[01/09/2026, 15.06.31] Antrian pending: 0 nomor menunggu klaim
+[01/09/2026, 15.06.32] Grup target   : grup sales pt (120363021369281320@g.us)

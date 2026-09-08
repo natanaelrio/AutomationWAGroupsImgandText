@@ -1,0 +1,1524 @@
+[26/08/2026, 10.21.10] Koneksi WhatsApp TERHUBUNG.
+[26/08/2026, 10.21.10] Antrian pending: 0 nomor menunggu klaim
+[26/08/2026, 10.21.11] Grup target   : NOTIFIKASI SALES BIGDATA (120363411343925143@g.us)
+[26/08/2026, 10.25.11] Koneksi WhatsApp TERHUBUNG.
+[26/08/2026, 10.25.11] Antrian pending: 0 nomor menunggu klaim
+[26/08/2026, 10.25.11] Grup target   : NOTIFIKASI SALES BIGDATA (120363411343925143@g.us)
+[26/08/2026, 11.00.42] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 11.00.45] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 11.00.45] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.00.45] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 11.00.45] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.00.45] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.00.48] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 11.00.48] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.00.48] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 11.00.49] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 11.00.49] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 11.00.49] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.00.53] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 11.00.53] CLAIMED      : [Senin, 03/08/2026, 10.35.00] 6285320606123 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.00.53] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 11.00.56] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 11.00.56] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 11.00.56] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.00.57] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 11.00.57] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.00.57] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 11.00.57] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.04] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 11.01.04] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 11.01.04] CLAIMED      : [Rabu, 05/08/2026, 14.29.00] 6281350346822 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.01.10] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 11.01.10] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.10] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.10] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.18] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 11.01.18] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 11.01.18] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.01.18] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.23] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 11.01.23] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 11.01.23] CLAIMED      : [Kamis, 06/08/2026, 13.58.00] 6282123829655 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.01.28] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 11.01.28] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 11.01.28] CLAIMED      : [Jumat, 07/08/2026, 07.15.00] 6285814628941 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.01.31] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 11.01.31] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 11.01.33] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 11.01.33] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6281355005119 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.01.33] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 11.01.35] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 11.01.35] PENDING      : 6281360293405 masuk antrian import (depth 2)
+[26/08/2026, 11.01.35] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6288102365279 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.01.44] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 11.01.44] PENDING      : 6287898983159 masuk antrian import (depth 2)
+[26/08/2026, 11.01.44] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6281360293405 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.01.52] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 11.01.52] SKIP         : 6287898983159 sudah ada di antrian import
+[26/08/2026, 11.01.52] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.01.55] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 11.01.55] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.55] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.01.56] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 11.01.56] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 11.01.56] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.02.00] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 11.02.00] CLAIMED      : [Senin, 10/08/2026, 15.26.00] 62818799112 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.00] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 11.02.03] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 11.02.03] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 11.02.03] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.04] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 11.02.04] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 11.02.04] CLAIMED      : [Senin, 10/08/2026, 19.16.00] 6281224544884 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.05] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 11.02.05] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 11.02.05] CLAIMED      : [Selasa, 11/08/2026, 09.44.00] 6285868080482 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.06] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 11.02.06] CLAIMED      : [Selasa, 11/08/2026, 09.45.00] 6282188881471 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.06] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 11.02.07] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 11.02.07] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 11.02.07] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.07] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.10] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 11.02.10] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 11.02.10] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.11] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 11.02.11] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 11.02.11] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.14] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 11.02.14] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 11.02.14] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.19] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 11.02.19] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 11.02.19] DRY_RUN     : lewati append 25 baris ke sheet
+[26/08/2026, 11.02.19] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.02.21] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 11.02.21] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 11.02.21] CLAIMED      : [Rabu, 12/08/2026, 15.48.00] 628159222552 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.25] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 11.02.25] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 11.02.25] CLAIMED      : [Kamis, 13/08/2026, 12.59.00] 6289531779507 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.29] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 11.02.29] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 11.02.32] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 11.02.32] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6287856087481 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.32] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 11.02.32] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6285640028910 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.32] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.37] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 11.02.37] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 11.02.37] CLAIMED      : [Jumat, 14/08/2026, 10.35.00] 6281150000850 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.39] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 11.02.39] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 11.02.39] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.39] CLAIMED      : [Jumat, 14/08/2026, 11.44.00] 6282261211960 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.41] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 11.02.41] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 11.02.41] CLAIMED      : [Jumat, 14/08/2026, 13.50.00] 6282110003686 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.42] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 11.02.42] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.02.42] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 11.02.45] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 11.02.45] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 11.02.45] CLAIMED      : [Sabtu, 15/08/2026, 09.30.00] 6281218875597 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.45] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.48] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 11.02.48] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 11.02.48] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.02.48] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.48] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.51] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 11.02.51] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 11.02.51] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.02.53] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 11.02.53] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.54] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 11.02.54] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.02.55] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 11.02.55] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 11.02.55] CLAIMED      : [Rabu, 19/08/2026, 09.49.00] 6281272126229 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.02.56] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 11.02.56] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 11.02.56] CLAIMED      : [Rabu, 19/08/2026, 14.07.00] 6282288280482 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.03.03] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 11.03.05] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 11.03.05] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 11.03.05] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.03.05] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.03.08] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 11.03.08] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 11.03.08] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 11.03.11] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 11.03.11] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 11.03.15] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 11.03.15] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 11.03.15] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 6285938552576 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.03.18] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 11.03.18] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 11.03.18] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 628111288706 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.03.20] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 11.03.20] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 11.03.20] CLAIMED      : [Kamis, 20/08/2026, 14.20.00] 6285774760238 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.03.26] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 11.03.26] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 11.03.26] CLAIM_DUP    : [Kamis, 20/08/2026, 15.08.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 11.03.28] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 11.03.28] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 11.03.30] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 11.03.30] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 11.03.30] CLAIMED      : [Jumat, 21/08/2026, 14.03.00] 6281298676768 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.03.34] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 11.03.34] CLAIMED      : [Sabtu, 22/08/2026, 11.47.00] 6281310957710 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.03.34] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 11.03.37] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 11.03.37] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 11.03.37] CLAIMED      : [Sabtu, 22/08/2026, 14.01.00] 6281360295307 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.03.38] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 11.03.38] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 11.03.38] CLAIMED      : [Sabtu, 22/08/2026, 14.44.00] 6281973527374 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.03.40] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 11.03.40] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 11.03.40] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 628999201157 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.03.45] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 11.03.45] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6282353713586 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.03.45] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 11.03.45] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281387791880 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.03.53] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 11.03.53] PENDING      : 6281211561057 masuk antrian import (depth 2)
+[26/08/2026, 11.04.07] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 11.04.11] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 11.04.11] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 11.04.11] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.04.11] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.11] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.14] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 11.04.14] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 11.04.14] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.04.15] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 11.04.15] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 11.04.16] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.04.22] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 11.04.22] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 11.04.22] CLAIMED      : [Senin, 03/08/2026, 10.35.00] 6285320606123 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.04.24] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 11.04.24] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.04.24] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 11.04.25] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 11.04.25] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 11.04.25] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.04.25] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.29] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 11.04.29] CLAIMED      : [Rabu, 05/08/2026, 14.29.00] 6281350346822 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.04.29] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 11.04.33] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 11.04.33] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.33] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.33] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.42] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 11.04.42] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 11.04.42] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.04.42] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.04.47] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 11.04.47] CLAIMED      : [Kamis, 06/08/2026, 13.58.00] 6282123829655 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.04.47] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 11.04.51] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 11.04.51] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 11.04.51] CLAIMED      : [Jumat, 07/08/2026, 07.15.00] 6285814628941 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.04.53] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 11.04.53] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 11.04.54] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 11.04.54] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 11.04.54] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6281355005119 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.04.55] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 11.04.55] PENDING      : 6281360293405 masuk antrian import (depth 2)
+[26/08/2026, 11.04.55] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6288102365279 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.05.00] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 11.05.00] PENDING      : 6287898983159 masuk antrian import (depth 2)
+[26/08/2026, 11.05.00] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6281360293405 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.05.06] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 11.05.06] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.05.06] SKIP         : 6287898983159 sudah ada di antrian import
+[26/08/2026, 11.05.08] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 11.05.08] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.05.08] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.05.10] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 11.05.10] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 11.05.10] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.05.14] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 11.05.14] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 11.05.14] CLAIMED      : [Senin, 10/08/2026, 15.26.00] 62818799112 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.18] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 11.05.18] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 11.05.18] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.19] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 11.05.19] CLAIMED      : [Senin, 10/08/2026, 19.16.00] 6281224544884 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.19] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 11.05.20] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 11.05.20] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 11.05.20] CLAIMED      : [Selasa, 11/08/2026, 09.44.00] 6285868080482 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.21] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 11.05.21] CLAIMED      : [Selasa, 11/08/2026, 09.45.00] 6282188881471 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.21] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 11.05.21] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 11.05.21] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 11.05.21] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.05.21] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.23] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 11.05.23] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 11.05.23] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.26] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 11.05.26] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 11.05.26] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.30] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 11.05.30] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 11.05.30] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.34] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.05.34] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 11.05.34] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 11.05.35] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 11.05.40] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 11.05.40] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 11.05.40] CLAIMED      : [Rabu, 12/08/2026, 15.48.00] 628159222552 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.44] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 11.05.44] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 11.05.44] CLAIMED      : [Kamis, 13/08/2026, 12.59.00] 6289531779507 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.48] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 11.05.48] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 11.05.52] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 11.05.52] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 11.05.52] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6287856087481 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.52] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.05.52] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6285640028910 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.05.56] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 11.05.56] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 11.05.56] CLAIMED      : [Jumat, 14/08/2026, 10.35.00] 6281150000850 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.58] CLAIMED      : [Jumat, 14/08/2026, 11.44.00] 6282261211960 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.05.58] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 11.05.58] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 11.05.58] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.00] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 11.06.00] CLAIMED      : [Jumat, 14/08/2026, 13.50.00] 6282110003686 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.06.00] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 11.06.01] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 11.06.01] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 11.06.01] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.06.04] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 11.06.04] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 11.06.04] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.04] CLAIMED      : [Sabtu, 15/08/2026, 09.30.00] 6281218875597 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.06.06] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 11.06.06] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 11.06.06] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.06.06] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.06] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.09] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 11.06.09] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 11.06.09] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.06.12] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 11.06.12] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.14] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 11.06.14] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.16] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 11.06.16] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 11.06.16] CLAIMED      : [Rabu, 19/08/2026, 09.49.00] 6281272126229 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.06.17] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 11.06.17] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 11.06.17] CLAIMED      : [Rabu, 19/08/2026, 14.07.00] 6282288280482 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.06.26] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 11.06.30] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 11.06.30] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 11.06.30] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.06.30] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 11.06.35] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 11.06.35] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 11.06.35] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 11.06.39] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 11.06.39] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 11.06.42] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 11.06.42] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 11.06.42] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 6285938552576 <- Ina (Sales Ina (Pelangi Teknik))
+[26/08/2026, 11.06.45] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 11.06.45] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 11.06.45] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 628111288706 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.06.46] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 11.06.46] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 11.06.46] CLAIMED      : [Kamis, 20/08/2026, 14.20.00] 6285774760238 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.06.51] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 11.06.51] CLAIM_DUP    : [Kamis, 20/08/2026, 15.08.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 11.06.51] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 11.06.52] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 11.06.52] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 11.06.54] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 11.06.54] CLAIMED      : [Jumat, 21/08/2026, 14.03.00] 6281298676768 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.06.54] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 11.06.58] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 11.06.58] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 11.06.58] CLAIMED      : [Sabtu, 22/08/2026, 11.47.00] 6281310957710 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.07.02] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 11.07.02] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 11.07.02] CLAIMED      : [Sabtu, 22/08/2026, 14.01.00] 6281360295307 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.07.04] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 11.07.04] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 11.07.04] CLAIMED      : [Sabtu, 22/08/2026, 14.44.00] 6281973527374 <- - (Sales Belanja Mesin Bekasi)
+[26/08/2026, 11.07.05] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 11.07.05] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 11.07.05] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 628999201157 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.07.08] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 11.07.08] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 11.07.08] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6282353713586 <- Sifa (Sales Sifa (Pelangi Teknik))
+[26/08/2026, 11.07.08] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281387791880 <- Alma (Sales Alma (Pelangi Teknik))
+[26/08/2026, 11.07.14] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 11.07.14] PENDING      : 6281211561057 masuk antrian import (depth 2)
+[26/08/2026, 11.07.14] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 11.07.14] PENDING      : 6288102518632 masuk antrian import (depth 3)
+[26/08/2026, 11.07.14] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6285721166934 <- Azzah (Sales Azzah)
+[26/08/2026, 11.07.15] SHEET_APPEND : 25 baris ditulis (total OK: 50)
+[26/08/2026, 12.00.00] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 12.00.05] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 12.00.05] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.05] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (FIFO)
+[26/08/2026, 12.00.05] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 12.00.05] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.10] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 12.00.10] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 12.00.10] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (FIFO)
+[26/08/2026, 12.00.11] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 12.00.11] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (FIFO)
+[26/08/2026, 12.00.11] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 12.00.18] CLAIM_SKIP   : 6285320606123 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.00.18] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 12.00.18] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 12.00.21] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (FIFO)
+[26/08/2026, 12.00.21] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 12.00.21] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 12.00.22] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 12.00.22] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (FIFO)
+[26/08/2026, 12.00.22] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 12.00.22] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.27] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 12.00.27] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 12.00.27] CLAIM_SKIP   : 6281350346822 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.00.30] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 12.00.30] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.30] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.30] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.36] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 12.00.36] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 12.00.36] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (FIFO)
+[26/08/2026, 12.00.36] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.39] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 12.00.39] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 12.00.39] CLAIM_SKIP   : 6282123829655 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.00.43] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 12.00.43] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 12.00.43] CLAIM_SKIP   : 6285814628941 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.00.44] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 12.00.44] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 12.00.45] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 12.00.45] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 12.00.45] CLAIM_SKIP   : 6281355005119 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.00.45] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 12.00.45] PENDING      : 6281360293405 masuk antrian import (depth 2)
+[26/08/2026, 12.00.45] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6288102365279 <- Sifa (FIFO)
+[26/08/2026, 12.00.49] PENDING      : 6287898983159 masuk antrian import (depth 2)
+[26/08/2026, 12.00.49] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 12.00.49] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6281360293405 <- Ina (FIFO)
+[26/08/2026, 12.00.53] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 12.00.53] SKIP         : 6287898983159 sudah ada di antrian import
+[26/08/2026, 12.00.53] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 12.00.54] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 12.00.54] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.54] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.00.55] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 12.00.55] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 12.00.55] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (FIFO)
+[26/08/2026, 12.00.58] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 12.00.58] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 12.00.58] CLAIM_SKIP   : 62818799112 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.00] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 12.01.00] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 12.01.00] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (FIFO)
+[26/08/2026, 12.01.01] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 12.01.01] CLAIM_SKIP   : 6281224544884 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.01] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 12.01.01] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 12.01.01] CLAIM_SKIP   : 6285868080482 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.01] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 12.01.02] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 12.01.02] CLAIM_SKIP   : 6282188881471 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.02] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 12.01.02] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 12.01.02] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 12.01.02] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (FIFO)
+[26/08/2026, 12.01.02] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.04] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 12.01.04] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 12.01.04] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (FIFO)
+[26/08/2026, 12.01.05] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 12.01.05] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 12.01.05] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (FIFO)
+[26/08/2026, 12.01.07] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 12.01.07] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 12.01.07] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (FIFO)
+[26/08/2026, 12.01.10] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 12.01.10] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 12.01.10] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (FIFO)
+[26/08/2026, 12.01.12] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 12.01.12] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 12.01.12] CLAIM_SKIP   : 628159222552 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.15] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 12.01.15] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 12.01.15] CLAIM_SKIP   : 6289531779507 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.18] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 12.01.18] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 12.01.20] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 12.01.20] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 12.01.20] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6287856087481 <- Alma (FIFO)
+[26/08/2026, 12.01.20] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6285640028910 <- Alma (FIFO)
+[26/08/2026, 12.01.20] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.23] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 12.01.23] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 12.01.23] CLAIM_SKIP   : 6281150000850 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.25] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 12.01.25] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 12.01.25] CLAIM_SKIP   : 6282261211960 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.25] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.26] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 12.01.26] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 12.01.26] CLAIM_SKIP   : 6282110003686 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.28] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 12.01.28] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 12.01.28] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (FIFO)
+[26/08/2026, 12.01.33] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 12.01.33] CLAIM_SKIP   : 6281218875597 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.33] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 12.01.33] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.37] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 12.01.37] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 12.01.37] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (FIFO)
+[26/08/2026, 12.01.37] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.37] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.39] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 12.01.39] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 12.01.39] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (FIFO)
+[26/08/2026, 12.01.40] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 12.01.40] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.41] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 12.01.41] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.43] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 12.01.43] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 12.01.43] CLAIM_SKIP   : 6281272126229 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.44] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 12.01.44] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 12.01.44] CLAIM_SKIP   : 6282288280482 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.01.51] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 12.01.54] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 12.01.54] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 12.01.54] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 12.01.54] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (FIFO)
+[26/08/2026, 12.02.02] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 12.02.02] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 12.02.02] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 12.02.11] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 12.02.11] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 12.02.16] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 12.02.16] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 12.02.16] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 6285938552576 <- Ina (FIFO)
+[26/08/2026, 12.02.18] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 12.02.18] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 12.02.18] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 628111288706 <- Sifa (FIFO)
+[26/08/2026, 12.02.20] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 12.02.20] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 12.02.20] CLAIM_SKIP   : 6285774760238 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.02.24] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 12.02.24] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 12.02.24] CLAIM_DUP    : [Kamis, 20/08/2026, 15.08.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 12.02.26] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 12.02.26] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 12.02.28] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 12.02.28] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 12.02.28] CLAIM_SKIP   : 6281298676768 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.02.31] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 12.02.31] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 12.02.31] CLAIM_SKIP   : 6281310957710 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.02.33] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 12.02.33] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 12.02.33] CLAIM_SKIP   : 6281360295307 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.02.33] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 12.02.33] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 12.02.33] CLAIM_SKIP   : 6281973527374 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 12.02.35] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 12.02.35] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 12.02.35] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 628999201157 <- Sifa (FIFO)
+[26/08/2026, 12.02.41] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 12.03.07] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 12.03.07] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 12.03.07] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6282353713586 <- Sifa (FIFO)
+[26/08/2026, 12.03.07] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281387791880 <- Alma (FIFO)
+[26/08/2026, 12.04.02] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 12.04.02] PENDING      : 6281211561057 masuk antrian import (depth 2)
+[26/08/2026, 12.04.07] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 12.04.07] PENDING      : 6288102518632 masuk antrian import (depth 3)
+[26/08/2026, 12.04.07] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6285721166934 <- Azzah (FIFO)
+[26/08/2026, 13.44.29] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 13.44.35] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 13.44.35] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 13.44.35] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (FIFO)
+[26/08/2026, 13.44.35] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.44.35] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.44.38] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 13.44.38] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 13.44.38] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (FIFO)
+[26/08/2026, 13.44.40] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 13.44.40] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (FIFO)
+[26/08/2026, 13.44.40] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 13.44.45] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 13.44.45] CLAIM_SKIP   : 6285320606123 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.44.45] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 13.44.49] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 13.44.49] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 13.44.49] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (FIFO)
+[26/08/2026, 13.44.50] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 13.44.50] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 13.44.50] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.44.50] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (FIFO)
+[26/08/2026, 13.44.56] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 13.44.56] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 13.44.56] CLAIM_SKIP   : 6281350346822 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.02] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 13.45.02] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.02] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.02] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.09] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 13.45.09] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 13.45.09] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (FIFO)
+[26/08/2026, 13.45.09] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.12] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 13.45.12] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 13.45.12] CLAIM_SKIP   : 6282123829655 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.17] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 13.45.17] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 13.45.17] CLAIM_SKIP   : 6285814628941 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.19] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 13.45.19] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 13.45.20] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 13.45.20] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 13.45.20] CLAIM_SKIP   : 6288102365279 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.20] CLAIM_SKIP   : 6281355005119 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.21] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 13.45.21] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6281360293405 <- Sifa (FIFO)
+[26/08/2026, 13.45.21] PENDING      : 6281360293405 masuk antrian import (depth 1)
+[26/08/2026, 13.45.30] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 13.45.30] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 13.45.30] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 13.45.37] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 13.45.37] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 13.45.37] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 13.45.40] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.40] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 13.45.40] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.42] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 13.45.42] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (FIFO)
+[26/08/2026, 13.45.42] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 13.45.48] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 13.45.48] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 13.45.48] CLAIM_SKIP   : 62818799112 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.53] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 13.45.53] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (FIFO)
+[26/08/2026, 13.45.53] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 13.45.54] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 13.45.54] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 13.45.54] CLAIM_SKIP   : 6281224544884 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.55] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 13.45.55] CLAIM_SKIP   : 6285868080482 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.55] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 13.45.56] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 13.45.56] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 13.45.56] CLAIM_SKIP   : 6282188881471 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.45.56] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 13.45.56] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (FIFO)
+[26/08/2026, 13.45.56] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.45.56] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 13.46.00] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 13.46.00] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 13.46.00] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (FIFO)
+[26/08/2026, 13.46.03] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 13.46.03] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 13.46.03] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (FIFO)
+[26/08/2026, 13.46.07] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 13.46.07] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 13.46.07] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (FIFO)
+[26/08/2026, 13.46.13] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 13.46.13] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 13.46.13] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (FIFO)
+[26/08/2026, 13.46.18] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 13.46.18] CLAIM_SKIP   : 628159222552 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.46.18] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 13.46.23] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 13.46.23] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 13.46.23] CLAIM_SKIP   : 6289531779507 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.46.30] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 13.46.30] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 13.46.34] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 13.46.34] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6287856087481 <- Alma (FIFO)
+[26/08/2026, 13.46.34] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.46.34] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6285640028910 <- Alma (FIFO)
+[26/08/2026, 13.46.34] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 13.46.40] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 13.46.40] CLAIM_SKIP   : 6281150000850 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.46.40] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 13.46.43] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 13.46.43] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 13.46.43] CLAIM_SKIP   : 6282261211960 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.46.43] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.46.45] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 13.46.45] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 13.46.45] CLAIM_SKIP   : 6282110003686 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.46.46] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 13.46.46] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 13.46.46] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (FIFO)
+[26/08/2026, 13.46.50] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 13.46.50] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.46.50] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 13.46.50] CLAIM_SKIP   : 6281218875597 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.46.54] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 13.46.54] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 13.46.54] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (FIFO)
+[26/08/2026, 13.46.54] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.46.54] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.46.59] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 13.46.59] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 13.46.59] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (FIFO)
+[26/08/2026, 13.47.02] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 13.47.02] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.47.03] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.47.03] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 13.47.05] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 13.47.05] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 13.47.05] CLAIM_SKIP   : 6281272126229 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.47.06] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 13.47.06] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 13.47.06] CLAIM_SKIP   : 6282288280482 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.47.22] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 13.47.26] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 13.47.26] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 13.47.26] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (FIFO)
+[26/08/2026, 13.47.26] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.47.32] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 13.47.32] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 13.47.32] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 13.47.39] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 13.47.39] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 13.47.45] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 13.47.45] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 13.47.45] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 6285938552576 <- Ina (FIFO)
+[26/08/2026, 13.47.49] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 13.47.49] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 13.47.49] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 628111288706 <- Sifa (FIFO)
+[26/08/2026, 13.47.51] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 13.47.51] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 13.47.51] CLAIM_SKIP   : 6285774760238 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.47.57] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 13.47.57] CLAIM_DUP    : [Kamis, 20/08/2026, 15.08.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 13.47.57] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 13.47.59] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 13.47.59] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 13.48.00] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 13.48.00] CLAIM_SKIP   : 6281298676768 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.48.00] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 13.48.03] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 13.48.03] CLAIM_SKIP   : 6281310957710 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.48.03] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 13.48.06] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 13.48.06] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 13.48.06] CLAIM_SKIP   : 6281360295307 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.48.07] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 13.48.07] CLAIM_SKIP   : 6281973527374 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.48.07] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 13.48.08] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 13.48.08] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 13.48.08] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 628999201157 <- Sifa (FIFO)
+[26/08/2026, 13.48.10] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 13.48.15] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 13.48.15] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 13.48.15] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281387791880 <- Alma (FIFO)
+[26/08/2026, 13.48.15] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6282353713586 <- Sifa (FIFO)
+[26/08/2026, 13.48.22] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 13.48.22] PENDING      : 6281211561057 masuk antrian import (depth 2)
+[26/08/2026, 13.48.22] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6285721166934 <- Alma (FIFO)
+[26/08/2026, 13.48.23] PENDING      : 6288102518632 masuk antrian import (depth 2)
+[26/08/2026, 13.48.23] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 13.48.23] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6281211561057 <- Azzah (FIFO)
+[26/08/2026, 13.54.20] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 13.54.21] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 13.54.21] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 13.54.21] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.21] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (FIFO)
+[26/08/2026, 13.54.21] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.22] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 13.54.22] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 13.54.22] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (FIFO)
+[26/08/2026, 13.54.23] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 13.54.23] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 13.54.23] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (FIFO)
+[26/08/2026, 13.54.30] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 13.54.30] CLAIM_SKIP   : 6285320606123 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.54.30] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 13.54.34] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 13.54.34] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 13.54.34] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (FIFO)
+[26/08/2026, 13.54.35] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 13.54.35] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.35] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 13.54.35] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (FIFO)
+[26/08/2026, 13.54.41] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 13.54.41] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 13.54.41] CLAIM_SKIP   : 6281350346822 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.54.45] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.45] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 13.54.45] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.45] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.52] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 13.54.52] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 13.54.52] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (FIFO)
+[26/08/2026, 13.54.52] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.54.55] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 13.54.55] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 13.54.55] CLAIM_SKIP   : 6282123829655 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.00] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 13.55.00] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 13.55.00] CLAIM_SKIP   : 6285814628941 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.01] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 13.55.01] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 13.55.02] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 13.55.02] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 13.55.02] CLAIM_SKIP   : 6281355005119 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.02] CLAIM_SKIP   : 6288102365279 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.03] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 13.55.03] PENDING      : 6281360293405 masuk antrian import (depth 1)
+[26/08/2026, 13.55.03] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6281360293405 <- Sifa (FIFO)
+[26/08/2026, 13.55.07] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 13.55.07] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 13.55.07] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 13.55.12] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 13.55.12] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 13.55.12] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 13.55.14] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 13.55.14] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.55.14] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.55.15] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 13.55.15] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 13.55.15] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (FIFO)
+[26/08/2026, 13.55.20] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 13.55.20] CLAIM_SKIP   : 62818799112 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.20] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 13.55.22] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 13.55.22] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 13.55.22] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (FIFO)
+[26/08/2026, 13.55.23] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 13.55.23] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 13.55.23] CLAIM_SKIP   : 6281224544884 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.24] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 13.55.24] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 13.55.24] CLAIM_SKIP   : 6285868080482 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.25] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 13.55.25] CLAIM_SKIP   : 6282188881471 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.25] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 13.55.25] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 13.55.25] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 13.55.25] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.55.25] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (FIFO)
+[26/08/2026, 13.55.28] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 13.55.28] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (FIFO)
+[26/08/2026, 13.55.28] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 13.55.31] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 13.55.31] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 13.55.31] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (FIFO)
+[26/08/2026, 13.55.34] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 13.55.34] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 13.55.34] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (FIFO)
+[26/08/2026, 13.55.38] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 13.55.38] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 13.55.38] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (FIFO)
+[26/08/2026, 13.55.41] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 13.55.41] CLAIM_SKIP   : 628159222552 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.41] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 13.55.45] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 13.55.45] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 13.55.45] CLAIM_SKIP   : 6289531779507 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.49] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 13.55.49] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 13.55.52] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6285640028910 <- Alma (FIFO)
+[26/08/2026, 13.55.52] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 13.55.52] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 13.55.52] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.55.52] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6287856087481 <- Alma (FIFO)
+[26/08/2026, 13.55.56] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 13.55.56] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 13.55.56] CLAIM_SKIP   : 6281150000850 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.59] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 13.55.59] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 13.55.59] CLAIM_SKIP   : 6282261211960 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.55.59] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.00] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 13.56.00] CLAIM_SKIP   : 6282110003686 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.56.00] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 13.56.01] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 13.56.01] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 13.56.01] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (FIFO)
+[26/08/2026, 13.56.05] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 13.56.05] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 13.56.05] CLAIM_SKIP   : 6281218875597 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.56.05] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.09] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 13.56.09] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.09] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.09] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (FIFO)
+[26/08/2026, 13.56.09] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 13.56.13] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 13.56.13] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 13.56.13] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (FIFO)
+[26/08/2026, 13.56.16] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 13.56.16] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.18] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 13.56.18] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.20] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 13.56.20] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 13.56.20] CLAIM_SKIP   : 6281272126229 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.56.22] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 13.56.22] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 13.56.22] CLAIM_SKIP   : 6282288280482 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.56.34] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 13.56.37] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 13.56.37] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 13.56.37] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (FIFO)
+[26/08/2026, 13.56.37] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 13.56.42] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 13.56.42] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 13.56.42] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 13.56.47] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 13.56.47] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 13.56.52] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 13.56.52] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 13.56.52] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 628111288706 <- Ina (FIFO)
+[26/08/2026, 13.56.56] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 13.56.56] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 13.56.56] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 6285774760238 <- Sifa (FIFO)
+[26/08/2026, 13.56.58] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 13.56.58] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 13.56.58] CLAIM_DUP    : [Kamis, 20/08/2026, 14.20.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 13.57.03] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 13.57.03] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 13.57.03] CLAIM_SKIP   : 6281298676768 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.57.04] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 13.57.04] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 13.57.06] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 13.57.06] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 13.57.06] CLAIM_SKIP   : 6281360295307 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.57.09] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 13.57.09] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 13.57.09] CLAIM_SKIP   : 6281973527374 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.57.13] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 13.57.13] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 13.57.13] CLAIM_SKIP   : 628999201157 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.57.14] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 13.57.14] CLAIM_SKIP   : 6282353713586 — sales "Sales Belanja Mesin Bekasi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 13.57.14] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 13.57.15] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 13.57.15] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 13.57.15] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 6281387791880 <- Sifa (FIFO)
+[26/08/2026, 13.57.17] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 13.57.22] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 13.57.22] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 13.57.22] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6285721166934 <- Sifa (FIFO)
+[26/08/2026, 13.57.22] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281310957710 <- Alma (FIFO)
+[26/08/2026, 13.57.28] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 13.57.28] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281211561057 <- Alma (FIFO)
+[26/08/2026, 13.57.28] PENDING      : 6281211561057 masuk antrian import (depth 2)
+[26/08/2026, 13.57.29] PENDING      : 6288102518632 masuk antrian import (depth 2)
+[26/08/2026, 13.57.29] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 13.57.29] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6288102518632 <- Azzah (FIFO)
+[26/08/2026, 14.49.24] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 14.49.28] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 14.49.28] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 14.49.28] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.28] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.28] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (FIFO)
+[26/08/2026, 14.49.32] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 14.49.32] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 14.49.32] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (FIFO)
+[26/08/2026, 14.49.34] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 14.49.34] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 14.49.34] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (FIFO)
+[26/08/2026, 14.49.40] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 14.49.40] CLAIMED      : [Senin, 03/08/2026, 10.35.00] 6285320606123 <- Erik (FIFO)
+[26/08/2026, 14.49.40] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 14.49.42] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 14.49.42] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 14.49.42] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (FIFO)
+[26/08/2026, 14.49.43] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 14.49.43] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 14.49.43] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (FIFO)
+[26/08/2026, 14.49.43] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.46] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 14.49.46] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 14.49.46] CLAIMED      : [Rabu, 05/08/2026, 14.29.00] 6281350346822 <- Erik (FIFO)
+[26/08/2026, 14.49.49] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 14.49.49] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.49] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.49] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.54] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 14.49.54] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 14.49.54] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (FIFO)
+[26/08/2026, 14.49.54] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.49.57] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 14.49.57] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 14.49.57] CLAIMED      : [Kamis, 06/08/2026, 13.58.00] 6282123829655 <- Erik (FIFO)
+[26/08/2026, 14.50.00] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 14.50.00] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 14.50.00] CLAIMED      : [Jumat, 07/08/2026, 07.15.00] 6285814628941 <- Erik (FIFO)
+[26/08/2026, 14.50.02] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 14.50.02] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 14.50.04] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 14.50.04] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 14.50.04] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6281355005119 <- Erik (FIFO)
+[26/08/2026, 14.50.04] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6288102365279 <- Erik (FIFO)
+[26/08/2026, 14.50.05] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 14.50.05] PENDING      : 6281360293405 masuk antrian import (depth 1)
+[26/08/2026, 14.50.05] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6281360293405 <- Sifa (FIFO)
+[26/08/2026, 14.50.11] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 14.50.11] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 14.50.11] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 14.50.16] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 14.50.16] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 14.50.16] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 14.50.17] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 14.50.17] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.50.17] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.50.18] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 14.50.18] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 14.50.18] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (FIFO)
+[26/08/2026, 14.50.21] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 14.50.21] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 14.50.21] CLAIMED      : [Senin, 10/08/2026, 15.26.00] 62818799112 <- Erik (FIFO)
+[26/08/2026, 14.50.24] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 14.50.24] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 14.50.24] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (FIFO)
+[26/08/2026, 14.50.24] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 14.50.24] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 14.50.24] CLAIMED      : [Senin, 10/08/2026, 19.16.00] 6281224544884 <- Erik (FIFO)
+[26/08/2026, 14.50.25] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 14.50.25] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 14.50.25] CLAIMED      : [Selasa, 11/08/2026, 09.44.00] 6285868080482 <- Erik (FIFO)
+[26/08/2026, 14.50.25] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 14.50.25] CLAIMED      : [Selasa, 11/08/2026, 09.45.00] 6282188881471 <- Erik (FIFO)
+[26/08/2026, 14.50.25] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 14.50.26] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 14.50.26] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 14.50.26] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.50.26] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (FIFO)
+[26/08/2026, 14.50.28] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 14.50.28] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (FIFO)
+[26/08/2026, 14.50.28] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 14.50.29] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 14.50.29] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 14.50.29] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (FIFO)
+[26/08/2026, 14.50.31] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 14.50.31] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 14.50.31] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (FIFO)
+[26/08/2026, 14.50.32] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 14.50.36] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 14.50.36] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 14.50.36] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (FIFO)
+[26/08/2026, 14.50.39] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 14.50.39] CLAIMED      : [Rabu, 12/08/2026, 15.48.00] 628159222552 <- Erik (FIFO)
+[26/08/2026, 14.50.39] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 14.50.42] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 14.50.42] CLAIMED      : [Kamis, 13/08/2026, 12.59.00] 6289531779507 <- Erik (FIFO)
+[26/08/2026, 14.50.42] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 14.50.45] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 14.50.45] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 14.50.47] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 14.50.47] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 14.50.47] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6285640028910 <- Alma (FIFO)
+[26/08/2026, 14.50.47] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.50.47] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6287856087481 <- Alma (FIFO)
+[26/08/2026, 14.50.51] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 14.50.51] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 14.50.51] CLAIMED      : [Jumat, 14/08/2026, 10.35.00] 6281150000850 <- Erik (FIFO)
+[26/08/2026, 14.50.52] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 14.50.52] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 14.50.52] CLAIMED      : [Jumat, 14/08/2026, 11.44.00] 6282261211960 <- Erik (FIFO)
+[26/08/2026, 14.50.52] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.50.53] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 14.50.53] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 14.50.53] CLAIMED      : [Jumat, 14/08/2026, 13.50.00] 6282110003686 <- Erik (FIFO)
+[26/08/2026, 14.50.54] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 14.50.54] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 14.50.54] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (FIFO)
+[26/08/2026, 14.50.57] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 14.50.57] CLAIMED      : [Sabtu, 15/08/2026, 09.30.00] 6281218875597 <- Erik (FIFO)
+[26/08/2026, 14.50.57] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.50.57] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 14.51.00] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 14.51.00] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (FIFO)
+[26/08/2026, 14.51.00] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 14.51.00] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.51.00] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.51.03] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 14.51.03] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 14.51.03] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (FIFO)
+[26/08/2026, 14.51.04] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 14.51.04] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.51.06] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 14.51.06] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.51.07] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 14.51.07] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 14.51.07] CLAIMED      : [Rabu, 19/08/2026, 09.49.00] 6281272126229 <- Erik (FIFO)
+[26/08/2026, 14.51.08] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 14.51.08] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 14.51.08] CLAIMED      : [Rabu, 19/08/2026, 14.07.00] 6282288280482 <- Erik (FIFO)
+[26/08/2026, 14.51.15] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 14.51.18] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 14.51.18] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 14.51.18] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (FIFO)
+[26/08/2026, 14.51.18] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.51.21] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 14.51.21] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 14.51.21] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 14.51.25] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 14.51.25] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 14.51.28] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 14.51.28] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 14.51.28] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 628111288706 <- Ina (FIFO)
+[26/08/2026, 14.51.30] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 14.51.30] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 14.51.30] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 6285774760238 <- Sifa (FIFO)
+[26/08/2026, 14.51.31] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 14.51.31] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 14.51.31] CLAIM_DUP    : [Kamis, 20/08/2026, 14.20.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 14.51.34] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 14.51.34] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 14.51.34] CLAIMED      : [Kamis, 20/08/2026, 15.08.00] 6281298676768 <- Erik (FIFO)
+[26/08/2026, 14.51.35] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 14.51.35] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 14.51.35] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 14.51.35] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 14.51.35] CLAIMED      : [Jumat, 21/08/2026, 14.03.00] 6281360295307 <- Erik (FIFO)
+[26/08/2026, 14.51.37] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 14.51.37] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 14.51.37] CLAIMED      : [Sabtu, 22/08/2026, 11.47.00] 6281973527374 <- Erik (FIFO)
+[26/08/2026, 14.51.38] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 14.51.38] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 14.51.38] CLAIMED      : [Sabtu, 22/08/2026, 14.01.00] 628999201157 <- Erik (FIFO)
+[26/08/2026, 14.51.39] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 14.51.39] CLAIMED      : [Sabtu, 22/08/2026, 14.44.00] 6282353713586 <- Erik (FIFO)
+[26/08/2026, 14.51.39] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 14.51.40] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 14.51.40] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 14.51.40] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 6281387791880 <- Sifa (FIFO)
+[26/08/2026, 14.51.42] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 14.51.42] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 14.51.42] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6285721166934 <- Sifa (FIFO)
+[26/08/2026, 14.51.42] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281310957710 <- Alma (FIFO)
+[26/08/2026, 14.51.43] SHEET_APPEND : 25 baris ditulis (total OK: 50)
+[26/08/2026, 14.51.46] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 14.51.46] PENDING      : 6281211561057 masuk antrian import (depth 2)
+[26/08/2026, 14.51.46] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281211561057 <- Alma (FIFO)
+[26/08/2026, 14.51.47] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 14.51.47] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6288102518632 <- Azzah (FIFO)
+[26/08/2026, 14.51.47] PENDING      : 6288102518632 masuk antrian import (depth 2)
+[26/08/2026, 14.57.47] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 14.57.50] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 14.57.50] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 14.57.50] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (FIFO)
+[26/08/2026, 14.57.50] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.57.50] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.57.53] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 14.57.53] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 14.57.53] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (FIFO)
+[26/08/2026, 14.57.54] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 14.57.54] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (FIFO)
+[26/08/2026, 14.57.54] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 14.57.58] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 14.57.58] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 14.57.58] CLAIMED      : [Senin, 03/08/2026, 10.35.00] 6285320606123 <- Erik (FIFO)
+[26/08/2026, 14.58.00] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 14.58.00] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 14.58.00] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (FIFO)
+[26/08/2026, 14.58.00] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 14.58.00] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.58.00] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 14.58.00] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (FIFO)
+[26/08/2026, 14.58.04] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 14.58.04] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 14.58.04] CLAIMED      : [Rabu, 05/08/2026, 14.29.00] 6281350346822 <- Erik (FIFO)
+[26/08/2026, 14.58.07] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 14.58.07] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.58.07] CLAIMED      : [Rabu, 05/08/2026, 16.37.00] 6281276866666 <- Sifa (FIFO)
+[26/08/2026, 14.58.07] TEXT_PHONE   : [Rabu, 05/08/2026, 15.12.00] 6281276866666 dari teks "== Rabu, 5 Agustus 2026 pukul 15.12.04 == *Sales Payment Con" masuk antrian (depth 1)
+[26/08/2026, 14.58.07] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.58.11] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 14.58.11] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 14.58.11] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (FIFO)
+[26/08/2026, 14.58.11] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.58.14] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 14.58.14] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 14.58.14] CLAIMED      : [Kamis, 06/08/2026, 13.58.00] 6282123829655 <- Erik (FIFO)
+[26/08/2026, 14.58.16] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 14.58.16] CLAIMED      : [Jumat, 07/08/2026, 07.15.00] 6285814628941 <- Erik (FIFO)
+[26/08/2026, 14.58.16] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 14.58.16] TEXT_PHONE   : [Jumat, 07/08/2026, 10.15.00] 6281275851991 dari teks "*UPLOAD BUKTI - 01_Sales_Azzah_Paperwork_2026* Nama Customer" masuk antrian (depth 1)
+[26/08/2026, 14.58.18] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 14.58.18] PENDING      : 6281355005119 masuk antrian import (depth 2)
+[26/08/2026, 14.58.19] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 14.58.19] PENDING      : 6288102365279 masuk antrian import (depth 3)
+[26/08/2026, 14.58.19] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6281355005119 <- Erik (FIFO)
+[26/08/2026, 14.58.19] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6288102365279 <- Erik (FIFO)
+[26/08/2026, 14.58.19] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 14.58.19] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6281360293405 <- Sifa (FIFO)
+[26/08/2026, 14.58.19] PENDING      : 6281360293405 masuk antrian import (depth 2)
+[26/08/2026, 14.58.25] PENDING      : 6287898983159 masuk antrian import (depth 2)
+[26/08/2026, 14.58.25] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 14.58.25] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 14.58.30] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 14.58.30] PENDING      : 6287898983159 masuk antrian import (depth 2)
+[26/08/2026, 14.58.30] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 628129732852 <- Ina (FIFO)
+[26/08/2026, 14.58.30] TEXT_PHONE   : [Jumat, 07/08/2026, 14.55.00] 628129732852 dari teks "== Jumat, 7 Agustus 2026 pukul 14.55.39 == *Sales Payment Co" masuk antrian (depth 3)
+[26/08/2026, 14.58.32] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 14.58.32] CLAIMED      : [Sabtu, 08/08/2026, 10.55.00] 6287898983159 <- Alma (FIFO)
+[26/08/2026, 14.58.32] CLAIMED      : [Senin, 10/08/2026, 09.17.00] 6281275851991 <- Alma (FIFO)
+[26/08/2026, 14.58.33] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 14.58.33] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 14.58.33] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (FIFO)
+[26/08/2026, 14.58.33] TEXT_PHONE   : [Senin, 10/08/2026, 15.09.00] 6281276866666 dari teks "== Senin, 10 Agustus 2026 pukul 15.09.24 == *Sales Payment C" masuk antrian (depth 1)
+[26/08/2026, 14.58.36] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 14.58.36] PENDING      : 62818799112 masuk antrian import (depth 2)
+[26/08/2026, 14.58.36] CLAIMED      : [Senin, 10/08/2026, 15.26.00] 62818799112 <- Erik (FIFO)
+[26/08/2026, 14.58.39] PENDING      : 6285784256732 masuk antrian import (depth 2)
+[26/08/2026, 14.58.39] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 14.58.39] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (FIFO)
+[26/08/2026, 14.58.40] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 14.58.40] PENDING      : 6281224544884 masuk antrian import (depth 2)
+[26/08/2026, 14.58.40] CLAIMED      : [Senin, 10/08/2026, 19.16.00] 6281224544884 <- Erik (FIFO)
+[26/08/2026, 14.58.40] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 14.58.40] CLAIMED      : [Selasa, 11/08/2026, 09.44.00] 6285868080482 <- Erik (FIFO)
+[26/08/2026, 14.58.40] PENDING      : 6285868080482 masuk antrian import (depth 2)
+[26/08/2026, 14.58.41] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 14.58.41] PENDING      : 6282188881471 masuk antrian import (depth 2)
+[26/08/2026, 14.58.41] CLAIMED      : [Selasa, 11/08/2026, 09.45.00] 6282188881471 <- Erik (FIFO)
+[26/08/2026, 14.58.41] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 14.58.41] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (FIFO)
+[26/08/2026, 14.58.41] PENDING      : 6289542819248 masuk antrian import (depth 2)
+[26/08/2026, 14.58.43] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 14.58.43] CLAIMED      : [Selasa, 11/08/2026, 10.59.00] 6281276866666 <- Erik (FIFO)
+[26/08/2026, 14.58.45] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 14.58.45] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 14.58.45] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (FIFO)
+[26/08/2026, 14.58.46] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 14.58.46] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 14.58.46] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (FIFO)
+[26/08/2026, 14.58.49] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 14.58.49] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 14.58.49] TEXT_PHONE   : [Rabu, 12/08/2026, 13.53.00] 6287771128233 dari teks "== Rabu, 12 Agustus 2026 pukul 13.53.29 == *Sales Payment Co" masuk antrian (depth 1)
+[26/08/2026, 14.58.49] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (FIFO)
+[26/08/2026, 14.58.52] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 14.58.52] PENDING      : 628158855215 masuk antrian import (depth 2)
+[26/08/2026, 14.58.52] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (FIFO)
+[26/08/2026, 14.58.55] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 14.58.55] PENDING      : 628159222552 masuk antrian import (depth 2)
+[26/08/2026, 14.58.55] TEXT_PHONE   : [Kamis, 13/08/2026, 09.47.00] 6281312804465 dari teks "== Kamis, 13 Agustus 2026 pukul 09.47.19 == *Sales Payment C" masuk antrian (depth 2)
+[26/08/2026, 14.58.55] CLAIMED      : [Rabu, 12/08/2026, 15.48.00] 628159222552 <- Erik (FIFO)
+[26/08/2026, 14.58.59] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 14.58.59] PENDING      : 6289531779507 masuk antrian import (depth 3)
+[26/08/2026, 14.58.59] CLAIMED      : [Kamis, 13/08/2026, 12.59.00] 6289531779507 <- Erik (FIFO)
+[26/08/2026, 14.59.02] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 14.59.02] PENDING      : 6287856087481 masuk antrian import (depth 3)
+[26/08/2026, 14.59.05] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 14.59.05] PENDING      : 6285640028910 masuk antrian import (depth 4)
+[26/08/2026, 14.59.05] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6285640028910 <- Alma (FIFO)
+[26/08/2026, 14.59.05] CLAIM_SKIP   : 6281312804465 — sales "Sentra Genset" tidak ada di dropdown, baris dilewati
+[26/08/2026, 14.59.05] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6287856087481 <- Alma (FIFO)
+[26/08/2026, 14.59.09] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 14.59.09] PENDING      : 6281150000850 masuk antrian import (depth 2)
+[26/08/2026, 14.59.09] CLAIMED      : [Jumat, 14/08/2026, 10.35.00] 6281150000850 <- Erik (FIFO)
+[26/08/2026, 14.59.11] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 14.59.11] PENDING      : 6282261211960 masuk antrian import (depth 2)
+[26/08/2026, 14.59.11] CLAIMED      : [Jumat, 14/08/2026, 11.44.00] 6282261211960 <- Erik (FIFO)
+[26/08/2026, 14.59.11] CLAIM_SKIP   : 6287771128233 — sales "Rio Tsuzumi" tidak ada di dropdown, baris dilewati
+[26/08/2026, 14.59.12] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 14.59.12] CLAIMED      : [Jumat, 14/08/2026, 13.50.00] 6282110003686 <- Erik (FIFO)
+[26/08/2026, 14.59.12] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 14.59.13] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 14.59.13] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 14.59.13] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (FIFO)
+[26/08/2026, 14.59.16] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 14.59.16] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 14.59.16] CLAIMED      : [Sabtu, 15/08/2026, 09.30.00] 6281218875597 <- Erik (FIFO)
+[26/08/2026, 14.59.16] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.59.18] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 14.59.18] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.59.18] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 14.59.18] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (FIFO)
+[26/08/2026, 14.59.18] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.59.21] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 14.59.21] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 14.59.21] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (FIFO)
+[26/08/2026, 14.59.22] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 14.59.22] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.59.23] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 14.59.23] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 14.59.24] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 14.59.24] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 14.59.24] CLAIMED      : [Rabu, 19/08/2026, 09.49.00] 6281272126229 <- Erik (FIFO)
+[26/08/2026, 14.59.25] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 14.59.25] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 14.59.25] CLAIMED      : [Rabu, 19/08/2026, 14.07.00] 6282288280482 <- Erik (FIFO)
+[26/08/2026, 14.59.33] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 14.59.35] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 14.59.35] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 14.59.35] CLAIMED      : [Kamis, 20/08/2026, 10.55.00] 6281298787501 <- Erik (FIFO)
+[26/08/2026, 14.59.35] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (FIFO)
+[26/08/2026, 14.59.35] TEXT_PHONE   : [Kamis, 20/08/2026, 10.54.00] 6281298787501 dari teks "<Media omitted> +62 812-9878-7501" masuk antrian (depth 1)
+[26/08/2026, 14.59.39] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 14.59.39] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 14.59.39] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 14.59.44] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 14.59.44] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 14.59.47] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 14.59.47] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 628111288706 <- Ina (FIFO)
+[26/08/2026, 14.59.47] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 14.59.49] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 14.59.49] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 14.59.49] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 6285774760238 <- Sifa (FIFO)
+[26/08/2026, 14.59.50] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 14.59.50] CLAIM_DUP    : [Kamis, 20/08/2026, 14.20.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 14.59.50] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 14.59.53] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 14.59.53] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 14.59.53] CLAIMED      : [Kamis, 20/08/2026, 15.08.00] 6281298676768 <- Erik (FIFO)
+[26/08/2026, 14.59.54] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 14.59.54] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 14.59.54] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 14.59.54] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 14.59.54] CLAIMED      : [Jumat, 21/08/2026, 14.03.00] 6281360295307 <- Erik (FIFO)
+[26/08/2026, 14.59.56] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 14.59.56] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 14.59.56] CLAIMED      : [Sabtu, 22/08/2026, 11.47.00] 6281973527374 <- Erik (FIFO)
+[26/08/2026, 14.59.57] SHEET_APPEND : 25 baris ditulis (total OK: 50)
+[26/08/2026, 14.59.58] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 14.59.58] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 14.59.58] CLAIMED      : [Sabtu, 22/08/2026, 14.01.00] 628999201157 <- Erik (FIFO)
+[26/08/2026, 14.59.59] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 14.59.59] CLAIMED      : [Sabtu, 22/08/2026, 14.44.00] 6282353713586 <- Erik (FIFO)
+[26/08/2026, 14.59.59] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 15.00.00] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 15.00.00] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 6281387791880 <- Sifa (FIFO)
+[26/08/2026, 15.00.00] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 15.00.02] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 15.00.02] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 15.00.02] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281399598715 <- Alma (FIFO)
+[26/08/2026, 15.00.02] TEXT_PHONE   : [Senin, 24/08/2026, 10.58.00] 6281399598715 dari teks "<Media omitted> +62 813-9959-8715" masuk antrian (depth 3)
+[26/08/2026, 15.00.02] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6285721166934 <- Sifa (FIFO)
+[26/08/2026, 15.00.05] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 15.00.05] PENDING      : 6281211561057 masuk antrian import (depth 3)
+[26/08/2026, 15.00.05] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281211561057 <- Alma (FIFO)
+[26/08/2026, 15.00.05] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 15.00.05] PENDING      : 6288102518632 masuk antrian import (depth 3)
+[26/08/2026, 15.00.05] TEXT_PHONE   : [Senin, 24/08/2026, 12.13.00] 6282269550914 dari teks "== Senin, 24 Agustus 2026 pukul 12.13.41 == *Sales Payment C" masuk antrian (depth 3)
+[26/08/2026, 15.00.05] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6288102518632 <- Azzah (FIFO)
+[26/08/2026, 15.01.07] MEDIA_INDEX  : 282 file ditemukan di folder export
+[26/08/2026, 15.01.11] PENDING      : 628131323060 masuk antrian import (depth 1)
+[26/08/2026, 15.01.11] IMAGE_OK     : [Sabtu, 01/08/2026, 10.09.00] OCR="= +62 813-1323-060 = terakhir dilihat hari ini pukul 10.01 G" -> 628131323060
+[26/08/2026, 15.01.11] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.11] CLAIMED      : [Sabtu, 01/08/2026, 10.10.00] 628131323060 <- Sifa (FIFO)
+[26/08/2026, 15.01.11] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.16] IMAGE_OK     : [Senin, 03/08/2026, 09.34.00] OCR="[ +62 853-5315-4973 ny terakhir dilihat hari ini pukul 09.23" -> 6285353154973
+[26/08/2026, 15.01.16] PENDING      : 6285353154973 masuk antrian import (depth 1)
+[26/08/2026, 15.01.16] CLAIMED      : [Senin, 03/08/2026, 09.34.00] 6285353154973 <- Alma (FIFO)
+[26/08/2026, 15.01.17] IMAGE_OK     : [Senin, 03/08/2026, 09.42.00] OCR="+62 896-3000-9640 ~Hana Bukan kontak - Tidak ada grup yang s" -> 6289630009640
+[26/08/2026, 15.01.17] CLAIMED      : [Senin, 03/08/2026, 09.42.00] 6289630009640 <- Alma (FIFO)
+[26/08/2026, 15.01.17] PENDING      : 6289630009640 masuk antrian import (depth 1)
+[26/08/2026, 15.01.21] IMAGE_OK     : [Senin, 03/08/2026, 10.35.00] OCR="& > +62853-2060-6123 way online Kalau ada minta harga nya y " -> 6285320606123
+[26/08/2026, 15.01.21] PENDING      : 6285320606123 masuk antrian import (depth 1)
+[26/08/2026, 15.01.21] CLAIMED      : [Senin, 03/08/2026, 10.35.00] 6285320606123 <- Erik (FIFO)
+[26/08/2026, 15.01.24] PENDING      : 628129752545 masuk antrian import (depth 1)
+[26/08/2026, 15.01.24] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="Y 162812-9752-545 IE Tambah ke daft 23/7/2026 Pak, kalo mesi" -> 628129752545
+[26/08/2026, 15.01.24] CLAIMED      : [Selasa, 04/08/2026, 09.53.00] 628129752545 <- Sifa (FIFO)
+[26/08/2026, 15.01.25] IMAGE_OK     : [Selasa, 04/08/2026, 09.53.00] OCR="\ 162878-8173-8787 bs online Pagi kak 09.48 Kak jual kompres" -> 6287881738787
+[26/08/2026, 15.01.25] PENDING      : 6287881738787 masuk antrian import (depth 1)
+[26/08/2026, 15.01.25] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.25] CLAIMED      : [Selasa, 04/08/2026, 09.54.00] 6287881738787 <- Alma (FIFO)
+[26/08/2026, 15.01.28] IMAGE_OK     : [Rabu, 05/08/2026, 14.29.00] OCR="162 813-5034-6822 i +62 813-5034-6822 § i Akun bisnis - Berg" -> 6281350346822
+[26/08/2026, 15.01.28] PENDING      : 6281350346822 masuk antrian import (depth 1)
+[26/08/2026, 15.01.28] CLAIMED      : [Rabu, 05/08/2026, 14.29.00] 6281350346822 <- Erik (FIFO)
+[26/08/2026, 15.01.31] IMAGE_OK     : [Rabu, 05/08/2026, 14.34.00] OCR="Se MN -w TT TEETER H H Hi +] bia 08785500 IE Tambah ke dafta" -> -
+[26/08/2026, 15.01.31] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.31] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.31] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.37] IMAGE_OK     : [Kamis, 06/08/2026, 09.41.00] OCR="162 856-0643-9162 Q Akun Bisnis 1B) Fred nbs Hari Ini baik t" -> 6285606439162
+[26/08/2026, 15.01.37] PENDING      : 6285606439162 masuk antrian import (depth 1)
+[26/08/2026, 15.01.37] CLAIMED      : [Kamis, 06/08/2026, 09.41.00] 6285606439162 <- Alma (FIFO)
+[26/08/2026, 15.01.37] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.01.40] IMAGE_OK     : [Kamis, 06/08/2026, 13.58.00] OCR="13.58 ul 5G GD) » +62821-2382-9655 < 436 (a tap to add to co" -> 6282123829655
+[26/08/2026, 15.01.40] PENDING      : 6282123829655 masuk antrian import (depth 1)
+[26/08/2026, 15.01.40] CLAIMED      : [Kamis, 06/08/2026, 13.58.00] 6282123829655 <- Erik (FIFO)
+[26/08/2026, 15.01.43] IMAGE_OK     : [Jumat, 07/08/2026, 07.14.00] OCR="162 858-1462-8941 ed terakhir dilihat hari ini pukul 07.06 3" -> 6285814628941
+[26/08/2026, 15.01.43] PENDING      : 6285814628941 masuk antrian import (depth 1)
+[26/08/2026, 15.01.43] CLAIMED      : [Jumat, 07/08/2026, 07.15.00] 6285814628941 <- Erik (FIFO)
+[26/08/2026, 15.01.45] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="EEE —r— di VP +62 813-5500-5119 Bukan kontak - Tidak ada gru" -> 6281355005119
+[26/08/2026, 15.01.45] PENDING      : 6281355005119 masuk antrian import (depth 1)
+[26/08/2026, 15.01.47] IMAGE_OK     : [Jumat, 07/08/2026, 10.35.00] OCR="+62 881-0236-52799 ~Yayu Bukan kontak - Tidak ada grup yang " -> 6288102365279
+[26/08/2026, 15.01.47] PENDING      : 6288102365279 masuk antrian import (depth 2)
+[26/08/2026, 15.01.47] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6288102365279 <- Erik (FIFO)
+[26/08/2026, 15.01.47] CLAIMED      : [Jumat, 07/08/2026, 10.36.00] 6281355005119 <- Erik (FIFO)
+[26/08/2026, 15.01.48] IMAGE_OK     : [Jumat, 07/08/2026, 12.11.00] OCR="AR, Gap 162 813-6029-3405 Siang 13 5, Mau tanya genset 11.23" -> 6281360293405
+[26/08/2026, 15.01.48] PENDING      : 6281360293405 masuk antrian import (depth 1)
+[26/08/2026, 15.01.48] CLAIMED      : [Jumat, 07/08/2026, 12.12.00] 6281360293405 <- Sifa (FIFO)
+[26/08/2026, 15.01.56] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 15.01.56] CLAIMED      : [Jumat, 07/08/2026, 13.35.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 15.01.56] IMAGE_OK     : [Jumat, 07/08/2026, 13.34.00] OCR="13.34 ull 5G GD) « 434 4s +62 878-9898-3159 x KS w — - = - =" -> 6287898983159
+[26/08/2026, 15.02.00] IMAGE_OK     : [Jumat, 07/08/2026, 14.49.00] OCR="14.499 +! 5G ED) « 442 EB 62 878-9898-3159 x 8 w - aa 0) | K" -> 6287898983159
+[26/08/2026, 15.02.00] CLAIMED      : [Jumat, 07/08/2026, 15.08.00] 6287898983159 <- Ina (FIFO)
+[26/08/2026, 15.02.00] PENDING      : 6287898983159 masuk antrian import (depth 1)
+[26/08/2026, 15.02.02] IMAGE_OK     : [Sabtu, 08/08/2026, 10.55.00] OCR="JJ terakhir dilihat hari ini pukul 10.36 mempel Hari Ir GC +" -> -
+[26/08/2026, 15.02.02] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.02] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.02] PENDING      : 6289534095192 masuk antrian import (depth 1)
+[26/08/2026, 15.02.02] CLAIMED      : [Senin, 10/08/2026, 10.56.00] 6289534095192 <- Ina (FIFO)
+[26/08/2026, 15.02.02] IMAGE_OK     : [Senin, 10/08/2026, 10.51.00] OCR="£2 +62 895-3409-51921 SW terakhir dilihat hari ini pukul 10." -> 6289534095192
+[26/08/2026, 15.02.07] IMAGE_OK     : [Senin, 10/08/2026, 15.25.00] OCR="H 162 818-799-112 online Bukan kontak «= Harilni gru 0) Alat" -> 62818799112
+[26/08/2026, 15.02.07] CLAIMED      : [Senin, 10/08/2026, 15.26.00] 62818799112 <- Erik (FIFO)
+[26/08/2026, 15.02.07] PENDING      : 62818799112 masuk antrian import (depth 1)
+[26/08/2026, 15.02.11] IMAGE_OK     : [Senin, 10/08/2026, 16.13.00] OCR="4 ® +62 857-8425-6732 IG ¢ Today pagi pak 1.04 Il Deng. » =o" -> 6285784256732
+[26/08/2026, 15.02.11] PENDING      : 6285784256732 masuk antrian import (depth 1)
+[26/08/2026, 15.02.11] CLAIMED      : [Senin, 10/08/2026, 16.13.00] 6285784256732 <- Alma (FIFO)
+[26/08/2026, 15.02.12] IMAGE_OK     : [Senin, 10/08/2026, 19.16.00] OCR="9) +62 812-2454-4884 2 online Bu Selamat mlm 19 13 Ada mesin" -> 6281224544884
+[26/08/2026, 15.02.12] CLAIMED      : [Senin, 10/08/2026, 19.16.00] 6281224544884 <- Erik (FIFO)
+[26/08/2026, 15.02.12] PENDING      : 6281224544884 masuk antrian import (depth 1)
+[26/08/2026, 15.02.12] IMAGE_OK     : [Selasa, 11/08/2026, 09.44.00] OCR="& +62 858-6808-0482 8 Pesan dan telep yang bisa men Met pagi" -> 6285868080482
+[26/08/2026, 15.02.12] CLAIMED      : [Selasa, 11/08/2026, 09.44.00] 6285868080482 <- Erik (FIFO)
+[26/08/2026, 15.02.12] PENDING      : 6285868080482 masuk antrian import (depth 1)
+[26/08/2026, 15.02.13] IMAGE_OK     : [Selasa, 11/08/2026, 09.45.00] OCR="A 162 821-8888-1471 B Pagi 09.02 Jual.kompresor 09.02 Yang k" -> 6282188881471
+[26/08/2026, 15.02.13] CLAIMED      : [Selasa, 11/08/2026, 09.45.00] 6282188881471 <- Erik (FIFO)
+[26/08/2026, 15.02.13] PENDING      : 6282188881471 masuk antrian import (depth 1)
+[26/08/2026, 15.02.13] PENDING      : 6289542819248 masuk antrian import (depth 1)
+[26/08/2026, 15.02.13] IMAGE_OK     : [Selasa, 11/08/2026, 09.46.00] OCR="D +62 895-4281-92486 Bul selamat pagi kak 09.02 apakah jual " -> 6289542819248
+[26/08/2026, 15.02.13] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.13] CLAIMED      : [Selasa, 11/08/2026, 09.46.00] 6289542819248 <- Alma (FIFO)
+[26/08/2026, 15.02.15] IMAGE_OK     : [Selasa, 11/08/2026, 14.14.00] OCR="A 162 812-1520-1428 Selamat pagi 08.56 Terima kasi kami bs c" -> 6281215201428
+[26/08/2026, 15.02.15] PENDING      : 6281215201428 masuk antrian import (depth 1)
+[26/08/2026, 15.02.15] CLAIMED      : [Selasa, 11/08/2026, 14.14.00] 6281215201428 <- Alma (FIFO)
+[26/08/2026, 15.02.16] IMAGE_OK     : [Rabu, 12/08/2026, 10.44.00] OCR="As +62 851-6117-7046 IE Tambah ke daf wy mempelaiari selengk" -> 6285161177046
+[26/08/2026, 15.02.16] PENDING      : 6285161177046 masuk antrian import (depth 1)
+[26/08/2026, 15.02.16] CLAIMED      : [Rabu, 12/08/2026, 10.46.00] 6285161177046 <- Alma (FIFO)
+[26/08/2026, 15.02.18] IMAGE_OK     : [Rabu, 12/08/2026, 12.08.00] OCR="12.08 ull 6G @® ¥, +62821-1885-9868 < 442 > tap to add to co" -> 6282118859868
+[26/08/2026, 15.02.18] PENDING      : 6282118859868 masuk antrian import (depth 1)
+[26/08/2026, 15.02.18] CLAIMED      : [Rabu, 12/08/2026, 12.09.00] 6282118859868 <- Alma (FIFO)
+[26/08/2026, 15.02.20] SHEET_APPEND : 25 baris ditulis (total OK: 25)
+[26/08/2026, 15.02.23] IMAGE_OK     : [Rabu, 12/08/2026, 14.36.00] OCR="14.36 AG RE ul +62 815-8855-... + : < a online = 8 . 8Pesand" -> 628158855215
+[26/08/2026, 15.02.23] PENDING      : 628158855215 masuk antrian import (depth 1)
+[26/08/2026, 15.02.23] CLAIMED      : [Rabu, 12/08/2026, 14.36.00] 628158855215 <- Ina (FIFO)
+[26/08/2026, 15.02.25] IMAGE_OK     : [Rabu, 12/08/2026, 15.48.00] OCR="15.48 AE - Ba € A 628159222552 E RE | < halo; 45 Terima kasi" -> 628159222552
+[26/08/2026, 15.02.25] CLAIMED      : [Rabu, 12/08/2026, 15.48.00] 628159222552 <- Erik (FIFO)
+[26/08/2026, 15.02.25] PENDING      : 628159222552 masuk antrian import (depth 1)
+[26/08/2026, 15.02.28] IMAGE_OK     : [Kamis, 13/08/2026, 12.58.00] OCR="12.58 AG - Sal <« £ +628953177-.. |B RE i membagikannya. Pel" -> 6289531779507
+[26/08/2026, 15.02.28] PENDING      : 6289531779507 masuk antrian import (depth 1)
+[26/08/2026, 15.02.28] CLAIMED      : [Kamis, 13/08/2026, 12.59.00] 6289531779507 <- Erik (FIFO)
+[26/08/2026, 15.02.31] IMAGE_OK     : [Kamis, 13/08/2026, 16.39.00] OCR="16.39 ARGO : Q Sal +62 878-5608-7481 + 3 < & online = 8 . « " -> 6287856087481
+[26/08/2026, 15.02.31] PENDING      : 6287856087481 masuk antrian import (depth 1)
+[26/08/2026, 15.02.33] IMAGE_OK     : [Kamis, 13/08/2026, 16.42.00] OCR="1642 AE “tall pa i +62 856-4002. |B RE i Hari ini 8 Pesan da" -> 6285640028910
+[26/08/2026, 15.02.33] PENDING      : 6285640028910 masuk antrian import (depth 2)
+[26/08/2026, 15.02.33] CLAIMED      : [Kamis, 13/08/2026, 16.52.00] 6285640028910 <- Alma (FIFO)
+[26/08/2026, 15.02.33] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.33] CLAIMED      : [Kamis, 13/08/2026, 16.53.00] 6287856087481 <- Alma (FIFO)
+[26/08/2026, 15.02.36] PENDING      : 6281150000850 masuk antrian import (depth 1)
+[26/08/2026, 15.02.36] IMAGE_OK     : [Jumat, 14/08/2026, 10.32.00] OCR="10.32 5G * Sal +62 811-5000-0850 Al Baba Restoran Akun bisni" -> 6281150000850
+[26/08/2026, 15.02.36] CLAIMED      : [Jumat, 14/08/2026, 10.35.00] 6281150000850 <- Erik (FIFO)
+[26/08/2026, 15.02.38] IMAGE_OK     : [Jumat, 14/08/2026, 11.44.00] OCR="162 822-6121-1960 = click here for contact info = 3 unread m" -> 6282261211960
+[26/08/2026, 15.02.38] CLAIMED      : [Jumat, 14/08/2026, 11.44.00] 6282261211960 <- Erik (FIFO)
+[26/08/2026, 15.02.38] PENDING      : 6282261211960 masuk antrian import (depth 1)
+[26/08/2026, 15.02.38] CLAIM_SKIP   : "ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.38] PENDING      : 6282110003686 masuk antrian import (depth 1)
+[26/08/2026, 15.02.38] IMAGE_OK     : [Jumat, 14/08/2026, 13.50.00] OCR="Tech » | AA Allegro at ic +62 821-1000-3686 ~T. Susanto | Bu" -> 6282110003686
+[26/08/2026, 15.02.38] CLAIMED      : [Jumat, 14/08/2026, 13.50.00] 6282110003686 <- Erik (FIFO)
+[26/08/2026, 15.02.39] IMAGE_OK     : [Jumat, 14/08/2026, 15.34.00] OCR="= +62 821-1266-1288 Bi Siang 15 29 Ada jual genset Bondi 600" -> 6282112661288
+[26/08/2026, 15.02.39] PENDING      : 6282112661288 masuk antrian import (depth 1)
+[26/08/2026, 15.02.39] CLAIMED      : [Jumat, 14/08/2026, 15.36.00] 6282112661288 <- Alma (FIFO)
+[26/08/2026, 15.02.41] IMAGE_OK     : [Sabtu, 15/08/2026, 09.16.00] OCR="09.16 ul 5G GD) K 464 2 162812-1887-5597 [BS Today @ Message" -> 6281218875597
+[26/08/2026, 15.02.41] PENDING      : 6281218875597 masuk antrian import (depth 1)
+[26/08/2026, 15.02.41] CLAIMED      : [Sabtu, 15/08/2026, 09.30.00] 6281218875597 <- Erik (FIFO)
+[26/08/2026, 15.02.41] CLAIM_SKIP   : "Ok" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.43] IMAGE_OK     : [Sabtu, 15/08/2026, 13.12.00] OCR="13.129 ull 56 @) < 467 IS) 162 878-7505-3930 [BS Today @ Mes" -> 6287875053930
+[26/08/2026, 15.02.43] PENDING      : 6287875053930 masuk antrian import (depth 1)
+[26/08/2026, 15.02.43] CLAIMED      : [Sabtu, 15/08/2026, 13.13.00] 6287875053930 <- Ina (FIFO)
+[26/08/2026, 15.02.43] CLAIM_SKIP   : "oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.43] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.45] IMAGE_OK     : [Selasa, 18/08/2026, 15.46.00] OCR="Y 162 822-6102-9364 IE Tamb a <= x Zo Hari Ini SS” = . x <A " -> 6282261029364
+[26/08/2026, 15.02.45] PENDING      : 6282261029364 masuk antrian import (depth 1)
+[26/08/2026, 15.02.45] CLAIMED      : [Selasa, 18/08/2026, 15.46.00] 6282261029364 <- Ina (FIFO)
+[26/08/2026, 15.02.46] IMAGE_OK     : [Rabu, 19/08/2026, 08.38.00] OCR="| 1 HB Produk EMRE Kompresor 5.5 HP Monto — - > terjual read" -> -
+[26/08/2026, 15.02.46] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.47] IMAGE_OK     : [Rabu, 19/08/2026, 09.48.00] OCR="sorban Gomaranaar Bak Saark - oe ow. 10 5 Pan) | Td pura kom" -> -
+[26/08/2026, 15.02.47] CLAIM_SKIP   : "Oke" — tidak ada nomor HP pending di antrian import
+[26/08/2026, 15.02.48] IMAGE_OK     : [Rabu, 19/08/2026, 09.49.00] OCR="—. 162812-7212-6229 i OP click here for contact info 5 AGRO " -> 6281272126229
+[26/08/2026, 15.02.48] PENDING      : 6281272126229 masuk antrian import (depth 1)
+[26/08/2026, 15.02.48] CLAIMED      : [Rabu, 19/08/2026, 09.49.00] 6281272126229 <- Erik (FIFO)
+[26/08/2026, 15.02.49] PENDING      : 6282288280482 masuk antrian import (depth 1)
+[26/08/2026, 15.02.49] IMAGE_OK     : [Rabu, 19/08/2026, 14.07.00] OCR="< +62 822-8828-0482 8/11/2026 Untuk 250kva silent brp oo 0 ©" -> 6282288280482
+[26/08/2026, 15.02.49] CLAIMED      : [Rabu, 19/08/2026, 14.07.00] 6282288280482 <- Erik (FIFO)
+[26/08/2026, 15.02.55] IMAGE_OK     : [Rabu, 19/08/2026, 16.09.00] OCR="Coo SSSR MAP < Ls GASOUING] WVASTEIRPUNMIPY 1 NA + ~~ Nt) Ne" -> -
+[26/08/2026, 15.02.57] IMAGE_OK     : [Kamis, 20/08/2026, 09.00.00] OCR="a» G93 +62 838-3317-2747 A 6/18/2026 KEPALA KOMPRESOR 5HP TA" -> 6283833172747
+[26/08/2026, 15.02.57] PENDING      : 6283833172747 masuk antrian import (depth 1)
+[26/08/2026, 15.02.57] CLAIMED      : [Kamis, 20/08/2026, 10.55.00] 6281298787501 <- Erik (FIFO)
+[26/08/2026, 15.02.57] CLAIMED      : [Kamis, 20/08/2026, 09.01.00] 6283833172747 <- Alma (FIFO)
+[26/08/2026, 15.02.57] TEXT_PHONE   : [Kamis, 20/08/2026, 10.54.00] 6281298787501 dari teks "<Media omitted> +62 812-9878-7501" masuk antrian (depth 1)
+[26/08/2026, 15.03.00] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="10.55 GH A a ED & 2 +62 838-0816-... = R3 @ — 162 838-0816-1" -> 6283808161685
+[26/08/2026, 15.03.00] PENDING      : 6283808161685 masuk antrian import (depth 1)
+[26/08/2026, 15.03.00] CLAIM_DUP    : [Kamis, 20/08/2026, 10.55.00] 6283808161685 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 15.03.03] IMAGE_OK     : [Kamis, 20/08/2026, 10.55.00] OCR="1055 HF Aa a ED +62 813-8500-... . < Pp) Akun bisnis = % * A" -> 6285938552576
+[26/08/2026, 15.03.03] PENDING      : 6285938552576 masuk antrian import (depth 1)
+[26/08/2026, 15.03.06] PENDING      : 628111288706 masuk antrian import (depth 2)
+[26/08/2026, 15.03.06] IMAGE_OK     : [Kamis, 20/08/2026, 11.17.00] OCR="+62 811-1288-706 ~PT. Jagat Saksana Makmur a 5 = * n ©) » & " -> 628111288706
+[26/08/2026, 15.03.06] CLAIMED      : [Kamis, 20/08/2026, 11.23.00] 628111288706 <- Ina (FIFO)
+[26/08/2026, 15.03.07] IMAGE_OK     : [Kamis, 20/08/2026, 11.27.00] OCR="1.27 wu! 5G GD) 162 857-7476-0238 «482 (DD) Dusness account " -> 6285774760238
+[26/08/2026, 15.03.07] PENDING      : 6285774760238 masuk antrian import (depth 2)
+[26/08/2026, 15.03.07] CLAIMED      : [Kamis, 20/08/2026, 11.56.00] 6285774760238 <- Sifa (FIFO)
+[26/08/2026, 15.03.08] IMAGE_OK     : [Kamis, 20/08/2026, 14.20.00] OCR="B +62 858-9234-7740 8 Messages and calls are end-to- read, l" -> 6285892347740
+[26/08/2026, 15.03.08] PENDING      : 6285892347740 masuk antrian import (depth 2)
+[26/08/2026, 15.03.08] CLAIM_DUP    : [Kamis, 20/08/2026, 14.20.00] 6285892347740 dilewati (sudah diklaim bot realtime)
+[26/08/2026, 15.03.11] IMAGE_OK     : [Kamis, 20/08/2026, 15.07.00] OCR="ip 162 812-9867-6768 IE Add to li Self-priming time : 200 s/" -> 6281298676768
+[26/08/2026, 15.03.11] PENDING      : 6281298676768 masuk antrian import (depth 2)
+[26/08/2026, 15.03.11] CLAIMED      : [Kamis, 20/08/2026, 15.08.00] 6281298676768 <- Erik (FIFO)
+[26/08/2026, 15.03.12] IMAGE_OK     : [Kamis, 20/08/2026, 20.49.00] OCR="6 20hp 30 bar ? — Ada wawa nya? 20:47 | v7 8 Om ada rekomend" -> 6281310957710
+[26/08/2026, 15.03.12] PENDING      : 6281310957710 masuk antrian import (depth 2)
+[26/08/2026, 15.03.13] IMAGE_OK     : [Jumat, 21/08/2026, 14.03.00] OCR="Ss +62 813-6029-5307 klik di sini untuk melihat info kontak " -> 6281360295307
+[26/08/2026, 15.03.13] PENDING      : 6281360295307 masuk antrian import (depth 3)
+[26/08/2026, 15.03.13] CLAIMED      : [Jumat, 21/08/2026, 14.03.00] 6281360295307 <- Erik (FIFO)
+[26/08/2026, 15.03.14] IMAGE_OK     : [Sabtu, 22/08/2026, 11.46.00] OCR="@ +62 819-7352-7374 Siang) 11.56 Teri kam © jz mag offic | e" -> 6281973527374
+[26/08/2026, 15.03.14] CLAIMED      : [Sabtu, 22/08/2026, 11.47.00] 6281973527374 <- Erik (FIFO)
+[26/08/2026, 15.03.14] PENDING      : 6281973527374 masuk antrian import (depth 3)
+[26/08/2026, 15.03.16] IMAGE_OK     : [Sabtu, 22/08/2026, 14.00.00] OCR="14.00 ull 5G GD) < 492 La) +62 899-9201-157 [BS Voice call L" -> 628999201157
+[26/08/2026, 15.03.16] CLAIMED      : [Sabtu, 22/08/2026, 14.01.00] 628999201157 <- Erik (FIFO)
+[26/08/2026, 15.03.16] PENDING      : 628999201157 masuk antrian import (depth 3)
+[26/08/2026, 15.03.16] IMAGE_OK     : [Sabtu, 22/08/2026, 14.44.00] OCR="A 162 823-5371-3586 selamat siang 12.18 Siang, Genset 5000wa" -> 6282353713586
+[26/08/2026, 15.03.16] PENDING      : 6282353713586 masuk antrian import (depth 3)
+[26/08/2026, 15.03.16] CLAIMED      : [Sabtu, 22/08/2026, 14.44.00] 6282353713586 <- Erik (FIFO)
+[26/08/2026, 15.03.17] IMAGE_OK     : [Senin, 24/08/2026, 10.43.00] OCR="HW LL 2 +62 813-8779-1880 IE) Add to L PDP Today Pagi 19:34 " -> 6281387791880
+[26/08/2026, 15.03.17] PENDING      : 6281387791880 masuk antrian import (depth 3)
+[26/08/2026, 15.03.17] CLAIMED      : [Senin, 24/08/2026, 10.43.00] 6281387791880 <- Sifa (FIFO)
+[26/08/2026, 15.03.22] PENDING      : 6285721166934 masuk antrian import (depth 3)
+[26/08/2026, 15.03.22] IMAGE_OK     : [Senin, 24/08/2026, 10.48.00] OCR="& +62 857-2116-6934 IS Tambah ke daftar 8 Pesan dan telepon " -> 6285721166934
+[26/08/2026, 15.03.22] CLAIMED      : [Senin, 24/08/2026, 10.54.00] 6285721166934 <- Sifa (FIFO)
+[26/08/2026, 15.03.23] SHEET_APPEND : 25 baris ditulis (total OK: 50)
+[26/08/2026, 15.03.23] TEXT_PHONE   : [Senin, 24/08/2026, 10.58.00] 6281399598715 dari teks "<Media omitted> +62 813-9959-8715" masuk antrian (depth 3)
+[26/08/2026, 15.03.23] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281399598715 <- Alma (FIFO)
+[26/08/2026, 15.03.29] IMAGE_OK     : [Senin, 24/08/2026, 10.58.00] OCR="10.58 GEA» Aiu 1 +62 812-1156-... + 5 (iy online = 8 . OL +6" -> 6281211561057
+[26/08/2026, 15.03.29] PENDING      : 6281211561057 masuk antrian import (depth 3)
+[26/08/2026, 15.03.29] CLAIMED      : [Senin, 24/08/2026, 10.58.00] 6281211561057 <- Alma (FIFO)
+[26/08/2026, 15.03.30] IMAGE_OK     : [Senin, 24/08/2026, 11.24.00] OCR="Y 162 881-0251-86322 online Pagi koh 11.12 Ada genset 10kva " -> 6288102518632
+[26/08/2026, 15.03.30] CLAIMED      : [Senin, 24/08/2026, 11.27.00] 6288102518632 <- Azzah (FIFO)
+[26/08/2026, 15.03.30] PENDING      : 6288102518632 masuk antrian import (depth 3)

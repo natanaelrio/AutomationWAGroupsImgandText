@@ -24,6 +24,78 @@
       "addedAt": "2026-08-27T04:37:38.465Z",
       "claimedBy": "177708701057272@lid",
       "claimedAt": "2026-08-27T04:44:57.693Z"
+    },
+    {
+      "messageId": "3EB0FB68B0738F27C0DE58",
+      "phone": "6281281725741",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-01T07:32:52.180Z",
+      "claimedBy": "138260047257624@lid",
+      "claimedAt": "2026-09-01T07:32:57.549Z"
+    },
+    {
+      "messageId": "3EB02908D10D1CBF22E5EE",
+      "phone": "6283196628626",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-02T09:02:35.766Z",
+      "claimedBy": "70884224147606@lid",
+      "claimedAt": "2026-09-02T09:03:38.009Z"
+    },
+    {
+      "messageId": "3EB021225F63D5F7AC744C",
+      "phone": "6281267481861",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-03T04:25:17.114Z",
+      "claimedBy": "138260047257624@lid",
+      "claimedAt": "2026-09-03T04:25:54.829Z"
+    },
+    {
+      "messageId": "3EB0CE10D4E66D39B48DE4",
+      "phone": "6287825810602",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-05T04:05:19.915Z",
+      "claimedBy": "70884224147606@lid",
+      "claimedAt": "2026-09-05T04:05:27.842Z"
+    },
+    {
+      "messageId": "3EB048D88929DE447D9EC8",
+      "phone": "628567638243",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-05T04:05:55.849Z",
+      "claimedBy": "70884224147606@lid",
+      "claimedAt": "2026-09-05T04:05:56.978Z"
+    },
+    {
+      "messageId": "3EB07F77E21DD8ABD7FD13",
+      "phone": "62813648649",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-07T02:38:01.303Z",
+      "claimedBy": "177708701057272@lid",
+      "claimedAt": "2026-09-07T02:38:44.577Z"
+    },
+    {
+      "messageId": "3EB0572214A9034A2CF3CE",
+      "phone": "6282261211960",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-07T02:40:02.217Z",
+      "claimedBy": "177708701057272@lid",
+      "claimedAt": "2026-09-07T02:41:40.940Z"
+    },
+    {
+      "messageId": "3EB0850C80B252A7113070",
+      "phone": "6281210954223",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-07T02:44:34.778Z",
+      "claimedBy": "138260047257624@lid",
+      "claimedAt": "2026-09-07T02:44:38.117Z"
+    },
+    {
+      "messageId": "3EB0A084C2458B37642610",
+      "phone": "6285926160709",
+      "groupName": "grup sales pt",
+      "addedAt": "2026-09-07T02:58:50.586Z",
+      "claimedBy": "70884224147606@lid",
+      "claimedAt": "2026-09-07T02:59:00.661Z"
     }
   ]
 }

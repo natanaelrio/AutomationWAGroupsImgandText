@@ -1,0 +1,237 @@
+[07/09/2026, 09.12.50] Koneksi WhatsApp TERHUBUNG.
+[07/09/2026, 09.12.50] Antrian pending: 0 nomor menunggu klaim
+[07/09/2026, 09.12.50] Grup target   : grup sales pt (120363021369281320@g.us)
+[07/09/2026, 09.37.57] ========== PESAN MASUK ==========
+[07/09/2026, 09.37.57] TYPE       : notify
+[07/09/2026, 09.37.57] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.37.57] GROUP_NAME : grup sales pt
+[07/09/2026, 09.37.57] FROM       : 29583734755435@lid
+[07/09/2026, 09.37.57] FROM ME    : false
+[07/09/2026, 09.37.57] TEXT       : -
+[07/09/2026, 09.37.57] HAS_IMAGE  : true
+[07/09/2026, 09.37.57] IMAGE_SAVED : C:\react belajar\node-wa\media\1788748677691_29583734755435lid.jpg
+[07/09/2026, 09.38.01] OCR_TEXT     : i browser untuk menerima notifikasi pesan pelanggan. = & RAMADHAN LUBIS Sebelum pembelian x O Be w eee Rp12.000.000 \ 10 terjual Hai, barang ini ready? 09:36 @ Produk £5 || Genset CHAMPION USA 12 kva 1... fr Rp12.000.000 SESI 10 terjual Brapa ka biaya ekspedisi ke kota balikpapan..? Nmor HP sy 0813 648 649 00 Customer Service2736 ¥ bs via cargo kk v
+[07/09/2026, 09.38.01] PHONE_FOUND  : 62813648649
+[07/09/2026, 09.38.01] PENDING_QUEUE: 62813648649 menunggu klaim (antrian: 1)
+[07/09/2026, 09.38.01] ==================================
+[07/09/2026, 09.38.44] ========== PESAN MASUK ==========
+[07/09/2026, 09.38.44] TYPE       : notify
+[07/09/2026, 09.38.44] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.38.44] GROUP_NAME : grup sales pt
+[07/09/2026, 09.38.44] FROM       : 177708701057272@lid
+[07/09/2026, 09.38.44] FROM ME    : false
+[07/09/2026, 09.38.44] TEXT       : Oke
+[07/09/2026, 09.38.44] HAS_IMAGE  : false
+[07/09/2026, 09.38.48] ========== KLAIM PIC ==========
+[07/09/2026, 09.38.48] CLAIMED_BY   : 177708701057272@lid
+[07/09/2026, 09.38.48] PHONE        : 62813648649
+[07/09/2026, 09.38.48] METHOD       : FIFO
+[07/09/2026, 09.38.48] SHEET_STATUS : success
+[07/09/2026, 09.38.48] PIC_NAME     : Sifa
+[07/09/2026, 09.38.48] ==================================
+[07/09/2026, 09.38.48] ================================
+[07/09/2026, 09.39.59] ========== PESAN MASUK ==========
+[07/09/2026, 09.39.59] TYPE       : notify
+[07/09/2026, 09.39.59] FROM       : 29583734755435@lid
+[07/09/2026, 09.39.59] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.39.59] FROM ME    : false
+[07/09/2026, 09.39.59] GROUP_NAME : grup sales pt
+[07/09/2026, 09.39.59] TEXT       : vibrator tsuzumi
+[07/09/2026, 09.39.59] HAS_IMAGE  : true
+[07/09/2026, 09.39.59] IMAGE_SAVED : C:\react belajar\node-wa\media\1788748799871_29583734755435lid.jpg
+[07/09/2026, 09.40.02] OCR_TEXT     : (on) +62 822-6121-1960 IE Addtolist - Ce RS Q H = ey | zie i) nee . OHV . Ta >» — \ fez.eneel] “a Ba Ki j2 ae” Tg PD Forwarded All 9 AN +o. a — Dia . V/ ; mM ——/ ay BM > © a “Ul sum! onl — a 4% sbtr tim sales kami info kk 00.59,
+[07/09/2026, 09.40.02] PHONE_FOUND  : 6282261211960
+[07/09/2026, 09.40.02] PENDING_QUEUE: 6282261211960 menunggu klaim (antrian: 1)
+[07/09/2026, 09.40.02] ==================================
+[07/09/2026, 09.41.40] ========== PESAN MASUK ==========
+[07/09/2026, 09.41.40] TYPE       : notify
+[07/09/2026, 09.41.40] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.41.40] FROM       : 177708701057272@lid
+[07/09/2026, 09.41.40] FROM ME    : false
+[07/09/2026, 09.41.40] GROUP_NAME : grup sales pt
+[07/09/2026, 09.41.40] HAS_IMAGE  : false
+[07/09/2026, 09.41.40] TEXT       : Oke
+[07/09/2026, 09.41.43] ========== KLAIM PIC ==========
+[07/09/2026, 09.41.43] CLAIMED_BY   : 177708701057272@lid
+[07/09/2026, 09.41.43] PIC_NAME     : Sifa
+[07/09/2026, 09.41.43] PHONE        : 6282261211960
+[07/09/2026, 09.41.43] METHOD       : FIFO
+[07/09/2026, 09.41.43] SHEET_STATUS : success
+[07/09/2026, 09.41.43] ================================
+[07/09/2026, 09.41.43] ==================================
+[07/09/2026, 09.44.28] ========== PESAN MASUK ==========
+[07/09/2026, 09.44.28] TYPE       : notify
+[07/09/2026, 09.44.28] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.44.28] GROUP_NAME : grup sales pt
+[07/09/2026, 09.44.28] FROM       : 237829602938908@lid
+[07/09/2026, 09.44.28] HAS_IMAGE  : true
+[07/09/2026, 09.44.28] TEXT       : FDp25
+[07/09/2026, 09.44.28] FROM ME    : false
+[07/09/2026, 09.44.29] IMAGE_SAVED : C:\react belajar\node-wa\media\1788749069045_237829602938908lid.jpg
+[07/09/2026, 09.44.34] OCR_TEXT     : ia.) +62 812-1095-4223 QC: “terakhir dilihat hari ini pukul 09.39 021-62: map pel office h GC: Timer pesan diperbarui. | dikirim, kecu Mau ty hrg sm stok dl 09.34 PD Diteruskan | IN = LA ty —_ i | Sener Jos | A | mE | |] h la) Eder 9 ai \ PN, - “— oT] fs AP tS T.A ey LY ae > pox e — >». EN Ce a BA. & )- >, H ATB . En p. fg Ps 4 = YN a « ih aE a5 Bu pak arip minta pompa oli,yg ini rusak 09.34 Ini fotonya bos 09.35
+[07/09/2026, 09.44.34] PHONE_FOUND  : 6281210954223
+[07/09/2026, 09.44.34] PENDING_QUEUE: 6281210954223 menunggu klaim (antrian: 1)
+[07/09/2026, 09.44.34] ==================================
+[07/09/2026, 09.44.38] ========== PESAN MASUK ==========
+[07/09/2026, 09.44.38] TYPE       : notify
+[07/09/2026, 09.44.38] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.44.38] GROUP_NAME : grup sales pt
+[07/09/2026, 09.44.38] FROM       : 138260047257624@lid
+[07/09/2026, 09.44.38] TEXT       : Oke
+[07/09/2026, 09.44.38] HAS_IMAGE  : false
+[07/09/2026, 09.44.38] FROM ME    : false
+[07/09/2026, 09.44.38] ========== PESAN MASUK ==========
+[07/09/2026, 09.44.38] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.44.38] TYPE       : notify
+[07/09/2026, 09.44.38] GROUP_NAME : grup sales pt
+[07/09/2026, 09.44.38] FROM       : 70884224147606@lid
+[07/09/2026, 09.44.38] FROM ME    : false
+[07/09/2026, 09.44.38] TEXT       : ok
+[07/09/2026, 09.44.38] HAS_IMAGE  : false
+[07/09/2026, 09.44.38] CLAIM_SKIP   : tidak ada nomor HP pending untuk diklaim
+[07/09/2026, 09.44.38] ==================================
+[07/09/2026, 09.44.40] ========== KLAIM PIC ==========
+[07/09/2026, 09.44.40] CLAIMED_BY   : 138260047257624@lid
+[07/09/2026, 09.44.40] PIC_NAME     : Erik
+[07/09/2026, 09.44.40] PHONE        : 6281210954223
+[07/09/2026, 09.44.40] METHOD       : Reply
+[07/09/2026, 09.44.40] SHEET_STATUS : success
+[07/09/2026, 09.44.40] ================================
+[07/09/2026, 09.44.40] ==================================
+[07/09/2026, 09.58.47] ========== PESAN MASUK ==========
+[07/09/2026, 09.58.47] TYPE       : notify
+[07/09/2026, 09.58.47] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.58.47] GROUP_NAME : grup sales pt
+[07/09/2026, 09.58.47] FROM       : 237829602938908@lid
+[07/09/2026, 09.58.47] FROM ME    : false
+[07/09/2026, 09.58.47] HAS_IMAGE  : true
+[07/09/2026, 09.58.47] TEXT       : -
+[07/09/2026, 09.58.47] IMAGE_SAVED : C:\react belajar\node-wa\media\1788749927984_237829602938908lid.jpg
+[07/09/2026, 09.58.50] OCR_TEXT     : +62 859-2616-0709 ~Surya GB Bukan kontak - Tidak ada grup yang sama @ Alat keamanan © Blokir | Welding Inverter IGBT MMA 400A- 3H Spesifikd) - — Kode I = bi AE 17) Jinput Power Voltage (V) | HINO 3 |Frequenzy (HZ ¥ : ll cee Rated Inj rs KVA)| \ MMA 400 peeve Tima i= Sea (DP or weightog | | [External dimension (cm) |_| Pak bos ada punya mesin las i 09.58
+[07/09/2026, 09.58.50] PHONE_FOUND  : 6285926160709
+[07/09/2026, 09.58.50] PENDING_QUEUE: 6285926160709 menunggu klaim (antrian: 1)
+[07/09/2026, 09.58.50] ==================================
+[07/09/2026, 09.59.00] ========== PESAN MASUK ==========
+[07/09/2026, 09.59.00] TYPE       : notify
+[07/09/2026, 09.59.00] GROUP      : 120363021369281320@g.us
+[07/09/2026, 09.59.00] FROM       : 70884224147606@lid
+[07/09/2026, 09.59.00] GROUP_NAME : grup sales pt
+[07/09/2026, 09.59.00] FROM ME    : false
+[07/09/2026, 09.59.00] TEXT       : ok
+[07/09/2026, 09.59.00] HAS_IMAGE  : false
+[07/09/2026, 09.59.03] ========== KLAIM PIC ==========
+[07/09/2026, 09.59.03] CLAIMED_BY   : 70884224147606@lid
+[07/09/2026, 09.59.03] PHONE        : 6285926160709
+[07/09/2026, 09.59.03] METHOD       : FIFO
+[07/09/2026, 09.59.03] SHEET_STATUS : success
+[07/09/2026, 09.59.03] ================================
+[07/09/2026, 09.59.03] PIC_NAME     : Alma
+[07/09/2026, 09.59.03] ==================================
+[07/09/2026, 10.53.52] ========== PESAN MASUK ==========
+[07/09/2026, 10.53.52] TYPE       : notify
+[07/09/2026, 10.53.52] GROUP      : 120363021369281320@g.us
+[07/09/2026, 10.53.52] FROM       : 237829602938908@lid
+[07/09/2026, 10.53.52] HAS_IMAGE  : false
+[07/09/2026, 10.53.52] FROM ME    : false
+[07/09/2026, 10.53.52] GROUP_NAME : grup sales pt
+[07/09/2026, 10.53.52] ==================================
+[07/09/2026, 10.53.52] TEXT       : +6287888303630 genset 60 kva
+[07/09/2026, 10.54.09] ========== PESAN MASUK ==========
+[07/09/2026, 10.54.09] TYPE       : notify
+[07/09/2026, 10.54.09] GROUP      : 120363021369281320@g.us
+[07/09/2026, 10.54.09] GROUP_NAME : grup sales pt
+[07/09/2026, 10.54.09] FROM       : 70884224147606@lid
+[07/09/2026, 10.54.09] FROM ME    : false
+[07/09/2026, 10.54.09] TEXT       : Ok
+[07/09/2026, 10.54.09] HAS_IMAGE  : false
+[07/09/2026, 10.54.09] CLAIM_SKIP   : tidak ada nomor HP pending untuk diklaim
+[07/09/2026, 10.54.09] ==================================
+[07/09/2026, 11.09.16] ========== PESAN MASUK ==========
+[07/09/2026, 11.09.16] TYPE       : notify
+[07/09/2026, 11.09.16] GROUP      : 120363021369281320@g.us
+[07/09/2026, 11.09.16] GROUP_NAME : grup sales pt
+[07/09/2026, 11.09.16] FROM       : 237829602938908@lid
+[07/09/2026, 11.09.16] FROM ME    : false
+[07/09/2026, 11.09.16] TEXT       : -
+[07/09/2026, 11.09.16] HAS_IMAGE  : true
+[07/09/2026, 11.09.16] IMAGE_SAVED : C:\react belajar\node-wa\media\1788754156729_237829602938908lid.jpg
+[07/09/2026, 11.09.21] OCR_TEXT     : 11.02 wl = ED Belanja Mesin Glo... <183 (@) seta 8 ga aaa pompa sate Ka, maar 11.56 ku uda cek ke gudang ga punya gduang 11.57 Oke terimakasih kk . .. , Kam, 13 Agu Kk mau tanya utk daya hisap sampai dengan 60 meter ad g ya utk pompa disel 5 26d Jum, 14 Agu berapa inch? AE Ygadajkk 1005.» Yg kuat angkat air dari sumur bor kedalaman 60 meterkk ~~. Hari ini Belanja Mesin Glodok Pompa.... Hs] x @ Diesel 3inch Selamat pagi kk ST Yg ini apakah ready? R017 I Q 9
+[07/09/2026, 11.09.21] PHONE_FOUND  : -
+[07/09/2026, 11.09.21] ==================================
+[07/09/2026, 11.09.21] ========== PESAN MASUK ==========
+[07/09/2026, 11.09.21] GROUP      : 120363021369281320@g.us
+[07/09/2026, 11.09.21] TYPE       : notify
+[07/09/2026, 11.09.21] GROUP_NAME : grup sales pt
+[07/09/2026, 11.09.21] FROM       : 237829602938908@lid
+[07/09/2026, 11.09.21] TEXT       : Ina tlg fokus
+[07/09/2026, 11.09.21] HAS_IMAGE  : false
+[07/09/2026, 11.09.21] FROM ME    : false
+[07/09/2026, 11.09.21] ==================================
+[07/09/2026, 11.09.38] ========== PESAN MASUK ==========
+[07/09/2026, 11.09.38] TYPE       : notify
+[07/09/2026, 11.09.38] GROUP      : 120363021369281320@g.us
+[07/09/2026, 11.09.38] GROUP_NAME : grup sales pt
+[07/09/2026, 11.09.38] FROM       : 75144932388948@lid
+[07/09/2026, 11.09.38] FROM ME    : false
+[07/09/2026, 11.09.38] TEXT       : Kenapa ina? Ga dibalas2in
+[07/09/2026, 11.09.38] HAS_IMAGE  : false
+[07/09/2026, 11.09.38] ==================================
+[07/09/2026, 11.09.53] ========== PESAN MASUK ==========
+[07/09/2026, 11.09.53] TYPE       : notify
+[07/09/2026, 11.09.53] GROUP      : 120363021369281320@g.us
+[07/09/2026, 11.09.53] GROUP_NAME : grup sales pt
+[07/09/2026, 11.09.53] FROM       : 237829602938908@lid
+[07/09/2026, 11.09.53] FROM ME    : false
+[07/09/2026, 11.09.53] TEXT       : -
+[07/09/2026, 11.09.53] HAS_IMAGE  : true
+[07/09/2026, 11.09.53] IMAGE_SAVED : C:\react belajar\node-wa\media\1788754193405_237829602938908lid.jpg
+[07/09/2026, 11.09.56] OCR_TEXT     : 11.09 SEA - otal ED +62 812-8962-1836 + 3 < HD mengetik... = D3 . Yg kuat angkat air dari sumur bor % kedalaman 60 meterkk 50... Hari ini Fe ha? Anda 1G) ya bs di nomor itu, pic kak ina ya Atau ad no yg bisa d hub lagi tidak ya A 11.08 > Diteruskan NA I ® Pesan 0 © Oo
+[07/09/2026, 11.09.56] PHONE_FOUND  : 6281289621836
+[07/09/2026, 11.09.56] PENDING_QUEUE: 6281289621836 menunggu klaim (antrian: 1)
+[07/09/2026, 11.09.56] ==================================
+[07/09/2026, 11.10.23] ========== PESAN MASUK ==========
+[07/09/2026, 11.10.23] TYPE       : notify
+[07/09/2026, 11.10.23] GROUP      : 120363021369281320@g.us
+[07/09/2026, 11.10.23] GROUP_NAME : grup sales pt
+[07/09/2026, 11.10.23] FROM       : 61091681939696@lid
+[07/09/2026, 11.10.23] TEXT       : iya maaf ini dibls, soalnya lgi chatan sama cust kompresor yg ada kendala
+[07/09/2026, 11.10.23] HAS_IMAGE  : false
+[07/09/2026, 11.10.23] FROM ME    : false
+[07/09/2026, 11.10.23] ==================================
+[07/09/2026, 11.23.27] ========== PESAN MASUK ==========
+[07/09/2026, 11.23.27] TYPE       : notify
+[07/09/2026, 11.23.27] GROUP      : 120363021369281320@g.us
+[07/09/2026, 11.23.27] GROUP_NAME : grup sales pt
+[07/09/2026, 11.23.27] FROM       : 24202576969890@lid
+[07/09/2026, 11.23.27] FROM ME    : false
+[07/09/2026, 11.23.27] TEXT       : ==| Senin, 7 September 2026, jam 11:23 |== *Hallo Ina, ada yang mengajukan penawaran* _info_: - Nama Customer: dianty jforces - Nomor Telp: 85691890032 - Email: diantyjforces@gmail.com - Product: Genset Diesel Silent 10 Kva 8000 8500 watt 1 Phase Tsuzumi TDG11000S - Link: https://www.pelangiteknik.com/product/genset-diesel-silent-10-kva-8000-8500-watt-1-phase-tsuzumi-tdg-11000-s - PIC Sales: Ina #DontStopNow
+[07/09/2026, 11.23.27] HAS_IMAGE  : false
+[07/09/2026, 11.23.29] ========== LEAD NOTIFICATION ==========
+[07/09/2026, 11.23.29] LEAD_DETECT  : notifikasi lead terstruktur terdeteksi
+[07/09/2026, 11.23.29] CUSTOMER     : dianty jforces
+[07/09/2026, 11.23.29] EMAIL        : diantyjforces@gmail.com
+[07/09/2026, 11.23.29] PRODUCT      : Genset Diesel Silent 10 Kva 8000 8500 watt 1 Phase Tsuzumi TDG11000S
+[07/09/2026, 11.23.29] SHEET_STATUS : success
+[07/09/2026, 11.23.29] PHONE        : 6285691890032
+[07/09/2026, 11.23.29] =======================================
+[07/09/2026, 11.23.29] ==================================
+[07/09/2026, 11.23.29] SALES        : Ina
+[07/09/2026, 11.40.47] NOMOR_HANGUS : 6281289621836 dibuang dari antrian, tidak diklaim dalam 30 menit
+[07/09/2026, 12.36.09] ========== PESAN MASUK ==========
+[07/09/2026, 12.36.09] TYPE       : notify
+[07/09/2026, 12.36.09] GROUP_NAME : grup sales pt
+[07/09/2026, 12.36.09] GROUP      : 120363021369281320@g.us
+[07/09/2026, 12.36.09] TEXT       : == Senin, 7 September 2026 pukul 12.36.08 == *Sales Payment Confirmed* telah melakukan pembayaran Nota: https://get.paper.id/9sTgLd2 No. Invoice: INV/07092026/P-687BSESC75 Customer: Hana Nomor Customer: 6281319077035 Alamat: Jalan Horison Jaya Blok A28 No. 7 *Detail Item:* 1. Electric Rebar Bender Montoya NRB-22 Qty: 1 | Harga: Rp 8.250.000 | Jumlah: Rp 8.250.000 *Total:* - Subtotal: Rp 8.250.000 - Diskon: - - Total Terbayar: Rp 8.250.000 Kode Voucher: NOVOUCHER *Status: LUNAS*
+[07/09/2026, 12.36.09] HAS_IMAGE  : false
+[07/09/2026, 12.36.09] FROM ME    : false
+[07/09/2026, 12.36.09] FROM       : 24202576969890@lid
+[07/09/2026, 12.36.09] ==================================
+[07/09/2026, 12.36.09] ========== PESAN MASUK ==========
+[07/09/2026, 12.36.09] GROUP      : 120363021369281320@g.us
+[07/09/2026, 12.36.09] FROM       : 24202576969890@lid
+[07/09/2026, 12.36.09] TYPE       : notify
+[07/09/2026, 12.36.09] TEXT       : Transaksi lewat website official minimal 10jt brand tsuzumi + googlemap customer wajib diberikan *Souvenir E-Money* dan catat di paperwork, terimakasih :)
+[07/09/2026, 12.36.09] GROUP_NAME : grup sales pt
+[07/09/2026, 12.36.09] HAS_IMAGE  : false
+[07/09/2026, 12.36.09] FROM ME    : false
+[07/09/2026, 12.36.09] ==================================
