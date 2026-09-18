@@ -13,7 +13,11 @@
  *     -> isi GOOGLE_SHEETS_WEBAPP_TOKEN di .env dengan nilai yang SAMA.
  *
  * Payload yang diterima (dari utils/sheets.js):
- *   { tab: "Sheet1" | "Sheet5", token: "rahasia", values: [[...], ...] }
+ *   { tab: "Custumer Leads", token: "rahasia", values: [[...], ...] }
+ *
+ * Semua data (klaim & lead) ditulis ke SATU tab "Custumer Leads"
+ * dengan 4 kolom: Tanggal | Nomor Customer | Nama Sales | Sumber Lead
+ * (Sumber Lead diisi otomatis oleh bot: GRUP SALES PT / WEB PELANGI).
  */
 
 // GANTI dengan token rahasia Anda. Harus SAMA dengan GOOGLE_SHEETS_WEBAPP_TOKEN di .env
@@ -69,8 +73,8 @@ function testPost_() {
     postData: {
       contents: JSON.stringify({
         token: WEBAPP_TOKEN,
-        tab: "Sheet1",
-        values: [["Test", "6281234567890", "Alma", "FIFO"]],
+        tab: "Custumer Leads",
+        values: [["Test", "6281234567890", "Alma", "GRUP SALES PT"]],
       }),
     },
   };

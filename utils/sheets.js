@@ -9,20 +9,22 @@
  *
  *   { tab: namaTab, token: GOOGLE_SHEETS_WEBAPP_TOKEN, values: [[...], ...] }
  *
- * Web app-nya yang meng-append langsung ke tab default spreadsheet tsb.
- * Token harus sama dengan filter `doPost` di Apps Script.
+*  Web app-nya yang meng-append langsung ke tab default spreadsheet tsb.
+ *  Token harus sama dengan filter `doPost` di Apps Script.
  *
- * Struktur kolom yang ditulis (Sheet1 / klaim, 4 kolom, urutan tetap):
- *   Tanggal | Nomor Customer | Nama Sales | Metode Klaim
+ *  SEMUA data (klaim & lead) ditulis ke SATU tab: config.googleSheetTab
+ *  ("Custumer Leads"), dengan 4 kolom, urutan tetap:
+ *   Tanggal | Nomor Customer | Nama Sales | Sumber Lead
  *
- * Struktur kolom Sheet5 / leads (5 kolom, urutan tetap):
- *   Tanggal | Nomor Customer | Email | Product | Nama Sales
+ *  Sumber Lead diisi otomatis berdasarkan alur data:
+ *   - alur klaim (balasan "ok" / OCR screenshot) -> "GRUP SALES PT"
+ *   - alur notifikasi lead terstruktur            -> "WEB PELANGI"
  *
  *  - Nomor Customer ditulis sebagai TEKS (bukan notasi ilmiah).
  *  - Nama Sales: HARUS salah satu dari VALID_SALES_NAMES (atau kosong).
- *  - Metode Klaim: "Reply" atau "FIFO".
+ *  - Field lama (Metode Klaim, Email, Product) TIDAK lagi ditulis.
  *
- * Ketahanan:
+ *  Ketahanan:
  *  - Semua error (webapp mati, HTTP error, token salah) ditangani di sini:
  *    fungsi mengembalikan { ok:false } dan TIDAK melempar exception,
  *    supaya bot/backfill tetap jalan.
@@ -33,6 +35,10 @@ const { log, formatTimestamp } = require("./logger");
 // Nama sales yang valid untuk kolom dropdown di spreadsheet.
 // Kalau resolved name tidak ada di list ini, baris TIDAK ditulis.
 const VALID_SALES_NAMES = ["Alma", "Azzah", "Dhita", "Erik", "Ina", "Sifa"];
+
+// Nilai otomatis kolom "Sumber Lead" berdasarkan alur data.
+const SOURCE_GRUP = "GRUP SALES PT"; // alur klaim (dulu tab Sheet1)
+const SOURCE_WEB = "WEB PELANGI";    // alur notifikasi lead terstruktur (dulu tab Sheet5)
 
 /**
  * Kirim satu payload append ke Apps Script Web App.
@@ -58,23 +64,24 @@ async function postToWebApp(payload) {
 }
 
 /**
- * Susun satu baris 4 kolom klaim dari payload klaim (Sheet1).
- * @param {{ timestamp?: Date|string|number, phone: string, salesName: string, claimMethod?: string }} p
- * @returns {[string, string, string, string]} [Tanggal, Nomor Customer, Nama Sales, Metode Klaim]
+ * Susun satu baris 4 kolom klaim dari payload klaim (tab Custumer Leads).
+ * Kolom: Tanggal | Nomor Customer | Nama Sales | Sumber Lead ("GRUP SALES PT")
+ * @param {{ timestamp?: Date|string|number, phone: string, salesName: string }} p
+ * @returns {[string, string, string, string]}
  */
-function buildRow({ timestamp, phone, salesName, claimMethod }) {
+function buildRow({ timestamp, phone, salesName }) {
   return [
     formatTimestamp(timestamp ? new Date(timestamp) : new Date()),
     String(phone ?? ""),
     salesName || "",
-    claimMethod || "FIFO",
+    SOURCE_GRUP,
   ];
 }
 
 /**
- * Append satu ATAU beberapa baris klaim (tab Sheet1) lewat web app.
+ * Append satu ATAU beberapa baris klaim (tab Custumer Leads) lewat web app.
  * Dipakai alur realtime (1 baris) dan backfill (batch baris histori).
- * @param {Array<{ timestamp?, phone, salesName, claimMethod }>} rows
+ * @param {Array<{ timestamp?, phone, salesName, claimMethod? }>} rows
  * @returns {Promise<{ok: boolean, appended?: number, error?: string}>}
  */
 async function appendSheetRows(rows) {
@@ -107,7 +114,7 @@ async function appendSheetRows(rows) {
 }
 
 /**
- * Append satu baris klaim ke spreadsheet target (Sheet1).
+ * Append satu baris klaim ke spreadsheet target (tab Custumer Leads).
  * @param {{ timestamp?: Date|string|number, phone: string, salesName: string, claimMethod?: string }} params
  * @returns {Promise<{ok: boolean, appended?: number, error?: string}>}
  */
@@ -115,25 +122,25 @@ async function appendToSheet(params) {
   return appendSheetRows([params]);
 }
 
-// ========== LEADS TAB (Sheet5) ==========
+// ========== LEADS (tab Custumer Leads) ==========
 
 /**
- * Susun satu baris 5 kolom untuk tab leads (Sheet5).
- * Kolom: Tanggal | Nomor Customer | Email | Product | Nama Sales
+ * Susun satu baris 4 kolom untuk tab leads (Custumer Leads).
+ * Kolom: Tanggal | Nomor Customer | Nama Sales | Sumber Lead ("WEB PELANGI")
+ * Field email & product dari payload DIABAIKAN (tidak lagi ditulis).
  */
-function buildLeadRow({ timestamp, phone, email, product, salesName }) {
+function buildLeadRow({ timestamp, phone, salesName }) {
   return [
     formatTimestamp(timestamp ? new Date(timestamp) : new Date()),
     String(phone ?? ""),
-    email || "",
-    product || "",
     salesName || "",
+    SOURCE_WEB,
   ];
 }
 
 /**
- * Append satu ATAU beberapa baris lead ke tab terpisah (Sheet5) lewat web app.
- * @param {Array<{ timestamp?, phone, email, product, salesName }>} rows
+ * Append satu ATAU beberapa baris lead ke tab Custumer Leads lewat web app.
+ * @param {Array<{ timestamp?, phone, email?, product?, salesName }>} rows
  * @returns {Promise<{ok: boolean, appended?: number, error?: string}>}
  */
 async function appendLeadSheetRows(rows) {
@@ -151,7 +158,7 @@ async function appendLeadSheetRows(rows) {
     }
 
     await postToWebApp({
-      tab: config.googleSheetTabLeads,
+      tab: config.googleSheetTab,
       token: config.googleSheetsWebAppToken,
       values: validRows.map((r) => buildLeadRow(r)),
     });
@@ -164,8 +171,8 @@ async function appendLeadSheetRows(rows) {
 }
 
 /**
- * Append satu baris lead ke spreadsheet target (tab leads / Sheet5).
- * @param {{ timestamp?: Date|string|number, phone: string, email: string, product: string, salesName: string }} params
+ * Append satu baris lead ke spreadsheet target (tab Custumer Leads).
+ * @param {{ timestamp?: Date|string|number, phone: string, email?: string, product?: string, salesName: string }} params
  * @returns {Promise<{ok: boolean, appended?: number, error?: string}>}
  */
 async function appendLeadToSheet(params) {
@@ -178,4 +185,6 @@ module.exports = {
   appendLeadToSheet,
   appendLeadSheetRows,
   VALID_SALES_NAMES,
+  SOURCE_GRUP,
+  SOURCE_WEB,
 };

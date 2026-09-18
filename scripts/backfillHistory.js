@@ -642,7 +642,7 @@ async function main() {
       return;
     }
 
-    // --- teks notifikasi lead terstruktur -> tulis ke Sheet5 ---
+    // --- teks notifikasi lead terstruktur -> tulis ke Custumer Leads ---
     if (!imageMsg && rawText && isLeadNotification(rawText)) {
       const lead = parseLeadFields(rawText);
       if (lead) {

@@ -24,10 +24,9 @@ const config = {
   googleServiceAccountPath:
     process.env.GOOGLE_SERVICE_ACCOUNT_PATH || "./credentials/service-account.json",
 
-  // ID spreadsheet target & nama tab di dalamnya
+  // ID spreadsheet target & nama tab di dalamnya (tujuan tunggal penulisan)
   googleSheetId: process.env.GOOGLE_SHEET_ID || "",
-  googleSheetTab: process.env.GOOGLE_SHEET_TAB || "Sheet1",
-  googleSheetTabLeads: process.env.GOOGLE_SHEET_TAB_LEADS || "Sheet5",
+  googleSheetTab: process.env.GOOGLE_SHEET_TAB || "Custumer Leads",
 
   // Kata trigger klaim (case-insensitive), dipisah koma di .env
   okKeywords: String(process.env.OK_KEYWORDS || "ok,oke,siap,ready")

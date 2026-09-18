@@ -586,7 +586,7 @@ async function main() {
       continue;
     }
 
-    // --- teks notifikasi lead terstruktur -> tulis ke Sheet5 ---
+    // --- teks notifikasi lead terstruktur -> tulis ke Custumer Leads ---
     if (msg.text && isLeadNotification(msg.text)) {
       const lead = parseLeadFields(msg.text);
       if (lead) {
